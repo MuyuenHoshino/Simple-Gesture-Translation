@@ -1,0 +1,51 @@
+Logging to file...
+Dataset samples: 1040
+######################Training Started######################
+epoch   1 | iteration   100 | Loss 7.639410 | Acc 1.67% | WER 480.71% | BLEU-4 0.00
+epoch   1 | iteration   200 | Loss 5.267159 | Acc 2.50% | WER 536.67% | BLEU-4 0.00
+Average Training Loss of Epoch 1: 6.735486 | Acc: 1.66% | WER 481.04% | BLEU-4 0.00
+Average Validation Loss of Epoch 1: 10.242921 | Acc: 0.33% | WER: 1145.50% | BLEU-4: 0.00
+Average test Loss of Epoch 1: 9.876577 | Acc: 0.17% | WER: 357.21% | BLEU-4: 0.00
+####################Epoch 1 Model Saved#####################
+epoch   2 | iteration   100 | Loss 6.506384 | Acc 4.17% | WER 443.64% | BLEU-4 0.00
+epoch   2 | iteration   200 | Loss 3.145104 | Acc 9.17% | WER 336.59% | BLEU-4 0.00
+Average Training Loss of Epoch 2: 4.368356 | Acc: 5.95% | WER 464.45% | BLEU-4 0.11
+Average Validation Loss of Epoch 2: 11.170062 | Acc: 0.00% | WER: 1147.50% | BLEU-4: 0.00
+Average test Loss of Epoch 2: 10.940433 | Acc: 0.00% | WER: 357.71% | BLEU-4: 0.00
+####################Epoch 2 Model Saved#####################
+epoch   3 | iteration   100 | Loss 3.003322 | Acc 5.00% | WER 564.82% | BLEU-4 0.00
+epoch   3 | iteration   200 | Loss 2.118616 | Acc 15.83% | WER 360.48% | BLEU-4 2.78
+Average Training Loss of Epoch 3: 2.839522 | Acc: 8.84% | WER 452.15% | BLEU-4 0.32
+Average Validation Loss of Epoch 3: 11.897580 | Acc: 0.00% | WER: 1147.50% | BLEU-4: 0.00
+Average test Loss of Epoch 3: 11.702923 | Acc: 0.00% | WER: 357.71% | BLEU-4: 0.00
+####################Epoch 3 Model Saved#####################
+epoch   4 | iteration   100 | Loss 1.449089 | Acc 14.17% | WER 361.49% | BLEU-4 0.00
+epoch   4 | iteration   200 | Loss 1.844414 | Acc 15.83% | WER 314.27% | BLEU-4 1.85
+Average Training Loss of Epoch 4: 1.948959 | Acc: 11.22% | WER 437.90% | BLEU-4 0.86
+Average Validation Loss of Epoch 4: 11.572779 | Acc: 0.00% | WER: 1147.50% | BLEU-4: 0.00
+Average test Loss of Epoch 4: 10.376231 | Acc: 0.00% | WER: 357.71% | BLEU-4: 0.00
+####################Epoch 4 Model Saved#####################
+epoch   5 | iteration   100 | Loss 1.318537 | Acc 11.67% | WER 421.61% | BLEU-4 0.93
+epoch   5 | iteration   200 | Loss 0.916240 | Acc 19.17% | WER 288.02% | BLEU-4 1.89
+Average Training Loss of Epoch 5: 1.315913 | Acc: 13.64% | WER 414.64% | BLEU-4 1.70
+Average Validation Loss of Epoch 5: 11.397739 | Acc: 0.00% | WER: 1147.50% | BLEU-4: 0.00
+Average test Loss of Epoch 5: 10.915092 | Acc: 0.00% | WER: 357.71% | BLEU-4: 0.00
+####################Epoch 5 Model Saved#####################
+epoch   6 | iteration   100 | Loss 0.971709 | Acc 12.50% | WER 321.25% | BLEU-4 1.85
+epoch   6 | iteration   200 | Loss 1.546060 | Acc 20.00% | WER 285.38% | BLEU-4 6.48
+Average Training Loss of Epoch 6: 0.900064 | Acc: 16.00% | WER 357.72% | BLEU-4 2.72
+Average Validation Loss of Epoch 6: 11.827497 | Acc: 0.00% | WER: 1147.50% | BLEU-4: 0.00
+Average test Loss of Epoch 6: 11.331796 | Acc: 0.00% | WER: 357.71% | BLEU-4: 0.00
+####################Epoch 6 Model Saved#####################
+epoch   7 | iteration   100 | Loss 0.543657 | Acc 15.00% | WER 401.04% | BLEU-4 1.85
+epoch   7 | iteration   200 | Loss 0.412123 | Acc 15.00% | WER 401.67% | BLEU-4 3.06
+Average Training Loss of Epoch 7: 0.654500 | Acc: 17.59% | WER 354.03% | BLEU-4 4.00
+Average Validation Loss of Epoch 7: 12.274165 | Acc: 0.00% | WER: 1147.50% | BLEU-4: 0.00
+Average test Loss of Epoch 7: 11.862621 | Acc: 0.00% | WER: 357.71% | BLEU-4: 0.00
+####################Epoch 7 Model Saved#####################
+epoch   8 | iteration   100 | Loss 0.363961 | Acc 15.83% | WER 334.58% | BLEU-4 2.49
+epoch   8 | iteration   200 | Loss 0.166869 | Acc 25.00% | WER 216.96% | BLEU-4 11.86
+Average Training Loss of Epoch 8: 0.454735 | Acc: 18.59% | WER 342.89% | BLEU-4 5.04
+Average Validation Loss of Epoch 8: 12.924244 | Acc: 0.00% | WER: 1147.50% | BLEU-4: 0.00
+Average test Loss of Epoch 8: 12.462504 | Acc: 0.00% | WER: 357.71% | BLEU-4: 0.00
+####################Epoch 8 Model Saved#####################

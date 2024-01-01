@@ -1,0 +1,8 @@
+Logging to file...
+Dataset samples: 18801
+######################Training Started######################
+epoch   1 | iteration    20 | Loss 3.565483 | Acc 56.88% | WER 100.00%
+epoch   1 | iteration    40 | Loss 2.759615 | Acc 66.67% | WER 100.00%
+epoch   1 | iteration    60 | Loss 3.548058 | Acc 58.13% | WER 100.00%
+epoch   1 | iteration    80 | Loss 2.820573 | Acc 65.21% | WER 100.00%
+epoch   1 | iteration   100 | Loss 3.071189 | Acc 63.12% | WER 100.00%

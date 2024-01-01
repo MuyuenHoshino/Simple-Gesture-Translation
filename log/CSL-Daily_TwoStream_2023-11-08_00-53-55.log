@@ -1,0 +1,4 @@
+Logging to file...
+Dataset samples: 18801
+######################Training Started######################
+Average test Loss of Epoch 1: 7.299384 | Acc: 59.23% | WER: 108.08% | BLEU-4: 0.00

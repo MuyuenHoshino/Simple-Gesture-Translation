@@ -1,0 +1,31 @@
+Logging to file...
+Dataset samples: 60
+######################Training Started######################
+Average Training Loss of Epoch 1: 8.950427 | Acc: 0.00% | WER 1147.50%
+Average Validation Loss of Epoch 1: 8.989125 | Acc: 0.00% | WER: 1143.33%
+Average test Loss of Epoch 1: 9.012073 | Acc: 0.00% | WER: 357.00%
+####################Epoch 1 Model Saved#####################
+Average Training Loss of Epoch 2: 8.911664 | Acc: 0.00% | WER 1147.50%
+Average Validation Loss of Epoch 2: 8.807542 | Acc: 0.00% | WER: 1146.25%
+Average test Loss of Epoch 2: 8.990800 | Acc: 0.00% | WER: 357.71%
+####################Epoch 2 Model Saved#####################
+Average Training Loss of Epoch 3: 8.874304 | Acc: 0.00% | WER 1147.50%
+Average Validation Loss of Epoch 3: 8.910421 | Acc: 0.00% | WER: 1147.50%
+Average test Loss of Epoch 3: 8.962950 | Acc: 0.33% | WER: 355.01%
+####################Epoch 3 Model Saved#####################
+Average Training Loss of Epoch 4: 8.911963 | Acc: 0.00% | WER 1145.83%
+Average Validation Loss of Epoch 4: 8.870838 | Acc: 0.00% | WER: 1137.50%
+Average test Loss of Epoch 4: 8.983662 | Acc: 0.17% | WER: 356.14%
+####################Epoch 4 Model Saved#####################
+Average Training Loss of Epoch 5: 8.744223 | Acc: 0.00% | WER 1141.25%
+Average Validation Loss of Epoch 5: 8.667425 | Acc: 0.00% | WER: 1105.67%
+Average test Loss of Epoch 5: 8.959043 | Acc: 0.00% | WER: 351.83%
+####################Epoch 5 Model Saved#####################
+Average Training Loss of Epoch 6: 8.732959 | Acc: 0.00% | WER 1122.58%
+Average Validation Loss of Epoch 6: 8.605136 | Acc: 0.33% | WER: 1052.50%
+Average test Loss of Epoch 6: 8.939431 | Acc: 0.17% | WER: 347.35%
+####################Epoch 6 Model Saved#####################
+Average Training Loss of Epoch 7: 8.682677 | Acc: 0.17% | WER 1121.25%
+Average Validation Loss of Epoch 7: 8.716784 | Acc: 0.00% | WER: 1126.50%
+Average test Loss of Epoch 7: 8.928270 | Acc: 0.00% | WER: 347.79%
+####################Epoch 7 Model Saved#####################

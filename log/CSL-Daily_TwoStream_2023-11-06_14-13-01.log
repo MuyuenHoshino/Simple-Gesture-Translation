@@ -1,0 +1,30 @@
+Logging to file...
+Dataset samples: 18601
+######################Training Started######################
+epoch   1 | iteration    20 | Loss 3.871522 | Acc 63.46% | WER 100.00%
+epoch   1 | iteration    40 | Loss 3.480705 | Acc 66.59% | WER 100.00%
+epoch   1 | iteration    60 | Loss 3.672277 | Acc 62.26% | WER 100.00%
+epoch   1 | iteration    80 | Loss 2.763708 | Acc 68.99% | WER 100.00%
+epoch   1 | iteration   100 | Loss 2.971511 | Acc 66.11% | WER 100.00%
+epoch   1 | iteration   120 | Loss 2.306401 | Acc 71.39% | WER 100.00%
+epoch   1 | iteration   140 | Loss 2.483677 | Acc 68.99% | WER 100.00%
+epoch   1 | iteration   160 | Loss 2.067137 | Acc 72.60% | WER 100.00%
+epoch   1 | iteration   180 | Loss 2.647972 | Acc 64.18% | WER 98.04%
+epoch   1 | iteration   200 | Loss 1.957924 | Acc 71.15% | WER 95.92%
+epoch   1 | iteration   220 | Loss 2.137608 | Acc 68.03% | WER 96.84%
+epoch   1 | iteration   240 | Loss 2.130478 | Acc 70.19% | WER 96.32%
+epoch   1 | iteration   260 | Loss 1.763451 | Acc 75.48% | WER 98.52%
+epoch   1 | iteration   280 | Loss 1.590236 | Acc 77.64% | WER 95.62%
+epoch   1 | iteration   300 | Loss 2.210916 | Acc 69.47% | WER 96.13%
+epoch   1 | iteration   320 | Loss 1.890575 | Acc 72.84% | WER 96.72%
+epoch   1 | iteration   340 | Loss 1.771783 | Acc 74.52% | WER 99.43%
+epoch   1 | iteration   360 | Loss 2.028528 | Acc 71.88% | WER 95.56%
+epoch   1 | iteration   380 | Loss 1.755678 | Acc 75.24% | WER 92.53%
+epoch   1 | iteration   400 | Loss 1.999130 | Acc 71.63% | WER 96.94%
+epoch   1 | iteration   420 | Loss 1.692336 | Acc 74.52% | WER 92.59%
+epoch   1 | iteration   440 | Loss 1.829837 | Acc 72.84% | WER 100.67%
+epoch   1 | iteration   460 | Loss 1.724564 | Acc 74.76% | WER 104.07%
+epoch   1 | iteration   480 | Loss 2.029077 | Acc 71.88% | WER 99.78%
+epoch   1 | iteration   500 | Loss 2.243148 | Acc 67.31% | WER 95.59%
+epoch   1 | iteration   520 | Loss 1.880413 | Acc 71.88% | WER 98.61%
+epoch   1 | iteration   540 | Loss 1.705087 | Acc 75.24% | WER 102.96%

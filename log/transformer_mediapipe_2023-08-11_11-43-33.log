@@ -1,0 +1,31 @@
+Logging to file...
+Dataset samples: 24900
+######################Training Started######################
+epoch   1 | iteration   100 | Loss 4.132575 | Acc 26.56% | WER 99.38%
+epoch   1 | iteration   200 | Loss 3.573289 | Acc 28.52% | WER 100.00%
+epoch   1 | iteration   300 | Loss 3.541816 | Acc 28.52% | WER 100.00%
+epoch   1 | iteration   400 | Loss 3.361599 | Acc 33.98% | WER 100.00%
+epoch   1 | iteration   500 | Loss 3.492842 | Acc 28.91% | WER 100.00%
+Average Training Loss of Epoch 1: 4.532547 | Acc: 27.96% | WER 102.76%
+Average Validation Loss of Epoch 1: 3.410125 | Acc: 30.75% | WER: 100.00%
+Average test Loss of Epoch 1: 3.406083 | Acc: 30.75% | WER: 100.00%
+####################Epoch 1 Model Saved#####################
+epoch   2 | iteration   100 | Loss 3.262293 | Acc 34.38% | WER 100.00%
+epoch   2 | iteration   200 | Loss 3.477195 | Acc 27.73% | WER 100.00%
+epoch   2 | iteration   300 | Loss 3.437810 | Acc 30.86% | WER 100.00%
+epoch   2 | iteration   400 | Loss 3.404830 | Acc 26.17% | WER 100.00%
+epoch   2 | iteration   500 | Loss 3.378021 | Acc 32.03% | WER 100.00%
+Average Training Loss of Epoch 2: 3.401140 | Acc: 30.74% | WER 100.00%
+Average Validation Loss of Epoch 2: 3.378110 | Acc: 30.75% | WER: 100.00%
+Average test Loss of Epoch 2: 3.380095 | Acc: 30.75% | WER: 100.00%
+####################Epoch 2 Model Saved#####################
+epoch   3 | iteration   100 | Loss 3.396015 | Acc 32.03% | WER 100.00%
+epoch   3 | iteration   200 | Loss 3.341047 | Acc 29.30% | WER 100.00%
+epoch   3 | iteration   300 | Loss 3.320665 | Acc 30.86% | WER 100.00%
+epoch   3 | iteration   400 | Loss 3.286222 | Acc 34.77% | WER 100.00%
+epoch   3 | iteration   500 | Loss 3.385145 | Acc 32.03% | WER 100.00%
+Average Training Loss of Epoch 3: 3.357726 | Acc: 30.75% | WER 100.00%
+Average Validation Loss of Epoch 3: 3.333254 | Acc: 30.75% | WER: 100.00%
+Average test Loss of Epoch 3: 3.331433 | Acc: 30.75% | WER: 100.00%
+####################Epoch 3 Model Saved#####################
+epoch   4 | iteration   100 | Loss 3.403392 | Acc 29.30% | WER 100.00%

@@ -1,0 +1,50 @@
+Logging to file...
+Dataset samples: 20654
+######################Training Started######################
+epoch   1 | iteration   100 | Loss 1.967721 | Acc 79.17% | WER 75.36% | BLEU-4 0.00
+epoch   1 | iteration   200 | Loss 2.335709 | Acc 73.33% | WER 76.41% | BLEU-4 0.00
+epoch   1 | iteration   300 | Loss 1.490396 | Acc 83.33% | WER 60.47% | BLEU-4 0.00
+epoch   1 | iteration   400 | Loss 1.736127 | Acc 80.83% | WER 52.50% | BLEU-4 0.00
+epoch   1 | iteration   500 | Loss 1.320033 | Acc 82.50% | WER 65.02% | BLEU-4 0.00
+epoch   1 | iteration   600 | Loss 2.489406 | Acc 70.83% | WER 65.45% | BLEU-4 0.00
+epoch   1 | iteration   700 | Loss 1.622514 | Acc 80.00% | WER 55.38% | BLEU-4 0.00
+epoch   1 | iteration   800 | Loss 1.465484 | Acc 82.50% | WER 57.95% | BLEU-4 0.00
+epoch   1 | iteration   900 | Loss 1.668824 | Acc 80.00% | WER 63.97% | BLEU-4 0.00
+epoch   1 | iteration  1000 | Loss 1.539958 | Acc 81.67% | WER 61.74% | BLEU-4 0.00
+epoch   1 | iteration  1100 | Loss 1.328526 | Acc 85.00% | WER 42.05% | BLEU-4 0.00
+epoch   1 | iteration  1200 | Loss 1.268342 | Acc 86.67% | WER 42.17% | BLEU-4 0.00
+epoch   1 | iteration  1300 | Loss 1.546087 | Acc 80.83% | WER 55.30% | BLEU-4 0.00
+epoch   1 | iteration  1400 | Loss 1.783861 | Acc 80.83% | WER 51.59% | BLEU-4 6.82
+epoch   1 | iteration  1500 | Loss 1.387441 | Acc 85.00% | WER 38.04% | BLEU-4 2.08
+epoch   1 | iteration  1600 | Loss 0.867447 | Acc 90.00% | WER 34.09% | BLEU-4 0.00
+epoch   1 | iteration  1700 | Loss 1.578275 | Acc 84.17% | WER 38.01% | BLEU-4 6.01
+epoch   1 | iteration  1800 | Loss 1.174873 | Acc 86.67% | WER 40.00% | BLEU-4 17.86
+epoch   1 | iteration  1900 | Loss 1.017797 | Acc 88.33% | WER 37.50% | BLEU-4 13.33
+epoch   1 | iteration  2000 | Loss 0.842664 | Acc 90.00% | WER 33.86% | BLEU-4 25.00
+epoch   1 | iteration  2100 | Loss 1.217820 | Acc 85.83% | WER 39.02% | BLEU-4 11.30
+epoch   1 | iteration  2200 | Loss 1.267153 | Acc 86.67% | WER 40.92% | BLEU-4 3.90
+epoch   1 | iteration  2300 | Loss 0.965994 | Acc 88.33% | WER 33.23% | BLEU-4 11.46
+epoch   1 | iteration  2400 | Loss 1.674840 | Acc 81.67% | WER 42.77% | BLEU-4 2.08
+epoch   1 | iteration  2500 | Loss 1.221444 | Acc 86.67% | WER 41.00% | BLEU-4 3.57
+epoch   1 | iteration  2600 | Loss 1.066387 | Acc 87.50% | WER 34.51% | BLEU-4 28.12
+epoch   1 | iteration  2700 | Loss 0.872927 | Acc 90.83% | WER 26.55% | BLEU-4 25.35
+epoch   1 | iteration  2800 | Loss 1.125787 | Acc 86.67% | WER 43.40% | BLEU-4 0.00
+epoch   1 | iteration  2900 | Loss 0.748260 | Acc 95.00% | WER 11.88% | BLEU-4 49.20
+epoch   1 | iteration  3000 | Loss 0.439354 | Acc 96.67% | WER 10.05% | BLEU-4 77.83
+epoch   1 | iteration  3100 | Loss 0.952991 | Acc 90.00% | WER 29.55% | BLEU-4 20.71
+epoch   1 | iteration  3200 | Loss 0.852280 | Acc 90.83% | WER 23.11% | BLEU-4 23.33
+epoch   1 | iteration  3300 | Loss 0.940390 | Acc 90.83% | WER 25.38% | BLEU-4 28.11
+epoch   1 | iteration  3400 | Loss 0.899107 | Acc 90.00% | WER 33.23% | BLEU-4 29.17
+epoch   1 | iteration  3500 | Loss 0.740872 | Acc 94.17% | WER 23.59% | BLEU-4 40.00
+epoch   1 | iteration  3600 | Loss 0.628572 | Acc 94.17% | WER 16.82% | BLEU-4 34.18
+epoch   1 | iteration  3700 | Loss 0.548568 | Acc 95.83% | WER 16.79% | BLEU-4 58.10
+epoch   1 | iteration  3800 | Loss 0.653401 | Acc 96.67% | WER 7.24% | BLEU-4 75.36
+epoch   1 | iteration  3900 | Loss 0.435490 | Acc 96.67% | WER 15.62% | BLEU-4 55.00
+epoch   1 | iteration  4000 | Loss 0.916006 | Acc 90.00% | WER 31.22% | BLEU-4 33.75
+epoch   1 | iteration  4100 | Loss 0.644348 | Acc 94.17% | WER 19.29% | BLEU-4 26.85
+epoch   1 | iteration  4200 | Loss 0.914546 | Acc 92.50% | WER 18.31% | BLEU-4 42.03
+epoch   1 | iteration  4300 | Loss 0.698957 | Acc 93.33% | WER 21.88% | BLEU-4 26.67
+epoch   1 | iteration  4400 | Loss 0.585302 | Acc 95.00% | WER 13.54% | BLEU-4 62.85
+epoch   1 | iteration  4500 | Loss 0.829258 | Acc 92.50% | WER 21.56% | BLEU-4 30.85
+epoch   1 | iteration  4600 | Loss 0.511697 | Acc 95.83% | WER 12.18% | BLEU-4 66.67
+Average Training Loss of Epoch 1: 1.283101 | Acc: 86.00% | WER 39.58% | BLEU-4 17.42

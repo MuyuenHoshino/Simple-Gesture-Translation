@@ -1,0 +1,9 @@
+Logging to file...
+Dataset samples: 2253
+######################Training Started######################
+Average Validation Loss of Epoch 1: 8.560122 | Acc: 57.68% | WER: 104.70% | BLEU-4: 0.13
+Average test Loss of Epoch 1: 8.715141 | Acc: 56.88% | WER: 104.26% | BLEU-4: 0.08
+####################Epoch 1 Model Saved#####################
+Average Validation Loss of Epoch 2: 8.554227 | Acc: 57.68% | WER: 104.70% | BLEU-4: 0.13
+Average test Loss of Epoch 2: 8.699171 | Acc: 56.88% | WER: 104.26% | BLEU-4: 0.08
+####################Epoch 2 Model Saved#####################

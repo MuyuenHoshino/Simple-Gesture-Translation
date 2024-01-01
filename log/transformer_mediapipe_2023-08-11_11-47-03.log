@@ -1,0 +1,12 @@
+Logging to file...
+Dataset samples: 24900
+######################Training Started######################
+epoch   1 | iteration   100 | Loss 147.713974 | Acc 0.00% | WER 180.42%
+epoch   1 | iteration   200 | Loss 132.673599 | Acc 9.77% | WER 133.07%
+epoch   1 | iteration   300 | Loss 2076.512939 | Acc 0.39% | WER 196.35%
+epoch   1 | iteration   400 | Loss 2603.026123 | Acc 19.14% | WER 96.51%
+epoch   1 | iteration   500 | Loss 1582.152832 | Acc 10.94% | WER 126.67%
+Average Training Loss of Epoch 1: 1111.957668 | Acc: 9.06% | WER 141.44%
+Average Validation Loss of Epoch 1: 810.181207 | Acc: 29.60% | WER: 98.57%
+Average test Loss of Epoch 1: 832.232824 | Acc: 29.19% | WER: 98.13%
+####################Epoch 1 Model Saved#####################

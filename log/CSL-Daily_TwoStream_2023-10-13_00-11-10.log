@@ -1,0 +1,4 @@
+Logging to file...
+Dataset samples: 34
+######################Training Started######################
+Average Training Loss of Epoch 1: 6.869025 | Acc: 45.19% | WER 657.41% | BLEU-4 0.00

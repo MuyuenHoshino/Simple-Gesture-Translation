@@ -1,0 +1,17 @@
+Logging to file...
+Dataset samples: 3
+######################Training Started######################
+Average Training Loss of Epoch 1: 8.831634 | Acc: 0.00% | WER 1000.00% | BLEU-4 0.00
+Average Validation Loss of Epoch 1: 7.123580 | Acc: 86.67% | WER: 100.00% | BLEU-4: 0.00
+Average test Loss of Epoch 1: 7.123580 | Acc: 86.67% | WER: 100.00% | BLEU-4: 0.00
+####################Epoch 1 Model Saved#####################
+Average Training Loss of Epoch 2: 7.105933 | Acc: 66.67% | WER 266.67% | BLEU-4 0.00
+Average Validation Loss of Epoch 2: 5.494002 | Acc: 86.67% | WER: 100.00% | BLEU-4: 0.00
+Average test Loss of Epoch 2: 5.494002 | Acc: 86.67% | WER: 100.00% | BLEU-4: 0.00
+####################Epoch 2 Model Saved#####################
+Average Training Loss of Epoch 3: 5.765767 | Acc: 86.67% | WER 100.00% | BLEU-4 0.00
+Average Validation Loss of Epoch 3: 4.259509 | Acc: 86.67% | WER: 100.00% | BLEU-4: 0.00
+Average test Loss of Epoch 3: 4.259509 | Acc: 86.67% | WER: 100.00% | BLEU-4: 0.00
+####################Epoch 3 Model Saved#####################
+Average Training Loss of Epoch 4: 4.550676 | Acc: 86.67% | WER 100.00% | BLEU-4 0.00
+Average Validation Loss of Epoch 4: 3.310203 | Acc: 86.67% | WER: 100.00% | BLEU-4: 0.00

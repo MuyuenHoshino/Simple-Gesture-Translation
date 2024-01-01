@@ -1,0 +1,20 @@
+Logging to file...
+Dataset samples: 19003
+######################Training Started######################
+epoch   1 | iteration    40 | Loss 2.062975 | Acc 71.77% | WER 83.86%
+epoch   1 | iteration    80 | Loss 2.038956 | Acc 71.98% | WER 82.12%
+epoch   1 | iteration   120 | Loss 2.030117 | Acc 72.50% | WER 81.02%
+epoch   1 | iteration   160 | Loss 1.926827 | Acc 73.44% | WER 80.75%
+epoch   1 | iteration   200 | Loss 2.055274 | Acc 72.08% | WER 80.29%
+epoch   1 | iteration   240 | Loss 2.130954 | Acc 70.31% | WER 77.87%
+epoch   1 | iteration   280 | Loss 2.001472 | Acc 72.92% | WER 80.90%
+epoch   1 | iteration   320 | Loss 2.140854 | Acc 69.17% | WER 83.71%
+epoch   1 | iteration   360 | Loss 2.190557 | Acc 69.48% | WER 81.27%
+epoch   1 | iteration   400 | Loss 2.265497 | Acc 68.02% | WER 80.36%
+epoch   1 | iteration   440 | Loss 2.034547 | Acc 71.15% | WER 80.48%
+epoch   1 | iteration   480 | Loss 2.078065 | Acc 70.94% | WER 77.82%
+epoch   1 | iteration   520 | Loss 2.056413 | Acc 70.10% | WER 77.25%
+epoch   1 | iteration   560 | Loss 1.902129 | Acc 73.85% | WER 79.27%
+Average Training Loss of Epoch 1: 2.087286 | Acc: 70.82% | WER 81.66%
+####################Epoch 1 Model Saved#####################
+epoch   2 | iteration    40 | Loss 1.957075 | Acc 71.35% | WER 74.38%

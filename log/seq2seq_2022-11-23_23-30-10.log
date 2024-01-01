@@ -1,0 +1,33 @@
+Logging to file...
+Dataset samples: 2500
+######################Training Started######################
+epoch   1 | iteration   100 | Loss 1.356080 | Acc 53.12% | WER 59.58%
+epoch   1 | iteration   200 | Loss 1.076918 | Acc 65.62% | WER 50.83%
+Average Training Loss of Epoch 1: 1.720407 | Acc: 54.77% | WER 56.46%
+Average Validation Loss of Epoch 1: 1.259194 | Acc: 56.60% | WER: 53.00%
+####################Epoch 1 Model Saved#####################
+epoch   2 | iteration   100 | Loss 0.965594 | Acc 54.69% | WER 49.58%
+epoch   2 | iteration   200 | Loss 1.021681 | Acc 65.62% | WER 40.42%
+Average Training Loss of Epoch 2: 0.878764 | Acc: 69.02% | WER 41.28%
+Average Validation Loss of Epoch 2: 1.139998 | Acc: 61.48% | WER: 46.72%
+####################Epoch 2 Model Saved#####################
+epoch   3 | iteration   100 | Loss 0.431975 | Acc 81.25% | WER 26.25%
+epoch   3 | iteration   200 | Loss 0.601154 | Acc 79.69% | WER 25.83%
+Average Training Loss of Epoch 3: 0.562878 | Acc: 81.12% | WER 25.05%
+Average Validation Loss of Epoch 3: 0.895812 | Acc: 74.90% | WER: 25.63%
+####################Epoch 3 Model Saved#####################
+epoch   4 | iteration   100 | Loss 0.307097 | Acc 92.19% | WER 11.25%
+epoch   4 | iteration   200 | Loss 0.353796 | Acc 87.50% | WER 16.67%
+Average Training Loss of Epoch 4: 0.275019 | Acc: 92.78% | WER 9.53%
+Average Validation Loss of Epoch 4: 0.798502 | Acc: 81.12% | WER: 17.05%
+####################Epoch 4 Model Saved#####################
+epoch   5 | iteration   100 | Loss 0.436884 | Acc 90.62% | WER 6.25%
+epoch   5 | iteration   200 | Loss 0.030067 | Acc 100.00% | WER 0.00%
+Average Training Loss of Epoch 5: 0.102211 | Acc: 98.04% | WER 2.53%
+Average Validation Loss of Epoch 5: 0.724771 | Acc: 85.50% | WER: 12.79%
+####################Epoch 5 Model Saved#####################
+epoch   6 | iteration   100 | Loss 0.068521 | Acc 96.88% | WER 4.17%
+epoch   6 | iteration   200 | Loss 0.091712 | Acc 96.88% | WER 4.17%
+Average Training Loss of Epoch 6: 0.057859 | Acc: 98.83% | WER 1.57%
+Average Validation Loss of Epoch 6: 1.090245 | Acc: 79.55% | WER: 19.39%
+####################Epoch 6 Model Saved#####################

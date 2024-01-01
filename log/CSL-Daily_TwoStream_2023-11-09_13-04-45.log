@@ -1,0 +1,937 @@
+Logging to file...
+Dataset samples: 18800
+######################Training Started######################
+epoch   1 | iteration    40 | Loss 2.246306 | Acc 71.25% | WER 91.95%
+epoch   1 | iteration    80 | Loss 2.376667 | Acc 66.88% | WER 87.07%
+epoch   1 | iteration   120 | Loss 2.380556 | Acc 68.12% | WER 87.52%
+epoch   1 | iteration   160 | Loss 2.595030 | Acc 65.83% | WER 90.03%
+epoch   1 | iteration   200 | Loss 2.128850 | Acc 70.62% | WER 86.10%
+epoch   1 | iteration   240 | Loss 2.952566 | Acc 62.92% | WER 87.81%
+epoch   1 | iteration   280 | Loss 2.515348 | Acc 65.00% | WER 90.08%
+epoch   1 | iteration   320 | Loss 2.377621 | Acc 68.12% | WER 87.33%
+epoch   1 | iteration   360 | Loss 2.045347 | Acc 71.88% | WER 85.68%
+epoch   1 | iteration   400 | Loss 2.410485 | Acc 66.04% | WER 88.95%
+epoch   1 | iteration   440 | Loss 2.362972 | Acc 70.00% | WER 86.66%
+epoch   1 | iteration   480 | Loss 2.506832 | Acc 67.71% | WER 89.48%
+epoch   1 | iteration   520 | Loss 2.371166 | Acc 68.96% | WER 88.64%
+epoch   1 | iteration   560 | Loss 2.296889 | Acc 69.58% | WER 83.93%
+epoch   1 | iteration   600 | Loss 2.126777 | Acc 70.21% | WER 87.33%
+epoch   1 | iteration   640 | Loss 2.274930 | Acc 67.71% | WER 89.37%
+epoch   1 | iteration   680 | Loss 2.231013 | Acc 69.38% | WER 82.53%
+epoch   1 | iteration   720 | Loss 2.215795 | Acc 71.04% | WER 82.02%
+epoch   1 | iteration   760 | Loss 1.975628 | Acc 71.67% | WER 87.39%
+epoch   1 | iteration   800 | Loss 1.902723 | Acc 72.08% | WER 87.75%
+epoch   1 | iteration   840 | Loss 2.168973 | Acc 71.04% | WER 84.18%
+epoch   1 | iteration   880 | Loss 2.093657 | Acc 71.88% | WER 83.78%
+epoch   1 | iteration   920 | Loss 2.205097 | Acc 68.54% | WER 89.55%
+epoch   1 | iteration   960 | Loss 2.513759 | Acc 66.88% | WER 86.54%
+epoch   1 | iteration  1000 | Loss 2.124865 | Acc 69.58% | WER 88.92%
+epoch   1 | iteration  1040 | Loss 1.640402 | Acc 76.67% | WER 84.36%
+epoch   1 | iteration  1080 | Loss 1.966184 | Acc 71.46% | WER 89.89%
+epoch   1 | iteration  1120 | Loss 2.417906 | Acc 65.62% | WER 87.09%
+Average Training Loss of Epoch 1: 2.269464 | Acc: 69.14% | WER 87.70%
+Average Validation Loss of Epoch 1: 4.316331 | Acc: 39.78% | WER: 183.50% | BLEU-4: 0.00
+Average test Loss of Epoch 1: 4.163808 | Acc: 41.77% | WER: 175.58% | BLEU-4: 0.00
+####################Epoch 1 Model Saved#####################
+epoch   2 | iteration    40 | Loss 2.500582 | Acc 65.83% | WER 87.72%
+epoch   2 | iteration    80 | Loss 2.303495 | Acc 68.96% | WER 84.16%
+epoch   2 | iteration   120 | Loss 2.271081 | Acc 65.83% | WER 87.47%
+epoch   2 | iteration   160 | Loss 2.774063 | Acc 62.08% | WER 84.89%
+epoch   2 | iteration   200 | Loss 2.399653 | Acc 66.67% | WER 86.66%
+epoch   2 | iteration   240 | Loss 2.117646 | Acc 68.75% | WER 82.10%
+epoch   2 | iteration   280 | Loss 1.975220 | Acc 70.00% | WER 85.36%
+epoch   2 | iteration   320 | Loss 2.166967 | Acc 71.25% | WER 83.07%
+epoch   2 | iteration   360 | Loss 1.992063 | Acc 72.29% | WER 86.52%
+epoch   2 | iteration   400 | Loss 2.075356 | Acc 70.00% | WER 87.89%
+epoch   2 | iteration   440 | Loss 1.862428 | Acc 72.50% | WER 82.53%
+epoch   2 | iteration   480 | Loss 2.022571 | Acc 72.29% | WER 81.94%
+epoch   2 | iteration   520 | Loss 1.999073 | Acc 70.42% | WER 83.95%
+epoch   2 | iteration   560 | Loss 1.789584 | Acc 73.54% | WER 84.98%
+epoch   2 | iteration   600 | Loss 1.791040 | Acc 74.17% | WER 83.99%
+epoch   2 | iteration   640 | Loss 2.088042 | Acc 67.29% | WER 82.87%
+epoch   2 | iteration   680 | Loss 2.004327 | Acc 70.62% | WER 84.57%
+epoch   2 | iteration   720 | Loss 2.142874 | Acc 69.79% | WER 80.99%
+epoch   2 | iteration   760 | Loss 2.135128 | Acc 69.38% | WER 83.11%
+epoch   2 | iteration   800 | Loss 2.212952 | Acc 67.08% | WER 84.47%
+epoch   2 | iteration   840 | Loss 2.027464 | Acc 71.04% | WER 81.63%
+epoch   2 | iteration   880 | Loss 1.892248 | Acc 73.75% | WER 78.09%
+epoch   2 | iteration   920 | Loss 1.666669 | Acc 74.58% | WER 84.00%
+epoch   2 | iteration   960 | Loss 1.904761 | Acc 70.62% | WER 85.00%
+epoch   2 | iteration  1000 | Loss 2.224394 | Acc 67.71% | WER 80.27%
+epoch   2 | iteration  1040 | Loss 1.793139 | Acc 72.29% | WER 85.64%
+epoch   2 | iteration  1080 | Loss 1.961410 | Acc 71.46% | WER 81.96%
+epoch   2 | iteration  1120 | Loss 1.871307 | Acc 72.50% | WER 80.15%
+Average Training Loss of Epoch 2: 2.052100 | Acc: 70.54% | WER 84.17%
+Average Validation Loss of Epoch 2: 3.958206 | Acc: 51.50% | WER: 140.54% | BLEU-4: 0.00
+Average test Loss of Epoch 2: 3.756467 | Acc: 53.48% | WER: 129.10% | BLEU-4: 0.00
+####################Epoch 2 Model Saved#####################
+epoch   3 | iteration    40 | Loss 2.048505 | Acc 70.62% | WER 78.72%
+epoch   3 | iteration    80 | Loss 2.216504 | Acc 66.67% | WER 82.24%
+epoch   3 | iteration   120 | Loss 1.880644 | Acc 70.62% | WER 82.31%
+epoch   3 | iteration   160 | Loss 2.052225 | Acc 70.42% | WER 82.09%
+epoch   3 | iteration   200 | Loss 2.047851 | Acc 70.42% | WER 76.70%
+epoch   3 | iteration   240 | Loss 1.829424 | Acc 72.92% | WER 80.09%
+epoch   3 | iteration   280 | Loss 1.792450 | Acc 72.71% | WER 78.35%
+epoch   3 | iteration   320 | Loss 1.826809 | Acc 72.29% | WER 82.37%
+epoch   3 | iteration   360 | Loss 1.911732 | Acc 72.50% | WER 78.62%
+epoch   3 | iteration   400 | Loss 1.907987 | Acc 71.67% | WER 78.44%
+epoch   3 | iteration   440 | Loss 1.561475 | Acc 75.62% | WER 77.75%
+epoch   3 | iteration   480 | Loss 2.055689 | Acc 69.38% | WER 82.31%
+epoch   3 | iteration   520 | Loss 1.615447 | Acc 75.42% | WER 83.48%
+epoch   3 | iteration   560 | Loss 1.867998 | Acc 72.71% | WER 76.69%
+epoch   3 | iteration   600 | Loss 1.899338 | Acc 70.21% | WER 85.40%
+epoch   3 | iteration   640 | Loss 1.612541 | Acc 74.38% | WER 78.61%
+epoch   3 | iteration   680 | Loss 2.191485 | Acc 68.12% | WER 83.39%
+epoch   3 | iteration   720 | Loss 1.980234 | Acc 69.79% | WER 81.28%
+epoch   3 | iteration   760 | Loss 1.820042 | Acc 69.38% | WER 80.49%
+epoch   3 | iteration   800 | Loss 1.708797 | Acc 73.75% | WER 77.86%
+epoch   3 | iteration   840 | Loss 2.106907 | Acc 70.62% | WER 80.13%
+epoch   3 | iteration   880 | Loss 1.915602 | Acc 71.46% | WER 80.22%
+epoch   3 | iteration   920 | Loss 1.983226 | Acc 71.04% | WER 79.69%
+epoch   3 | iteration   960 | Loss 1.752511 | Acc 74.79% | WER 77.84%
+epoch   3 | iteration  1000 | Loss 2.077121 | Acc 69.58% | WER 85.21%
+epoch   3 | iteration  1040 | Loss 1.802143 | Acc 71.67% | WER 84.14%
+epoch   3 | iteration  1080 | Loss 1.718569 | Acc 74.38% | WER 85.09%
+epoch   3 | iteration  1120 | Loss 1.736878 | Acc 73.54% | WER 84.25%
+Average Training Loss of Epoch 3: 1.903263 | Acc: 71.84% | WER 80.40%
+Average Validation Loss of Epoch 3: 4.235474 | Acc: 64.55% | WER: 89.51% | BLEU-4: 0.07
+Average test Loss of Epoch 3: 4.186613 | Acc: 64.80% | WER: 88.19% | BLEU-4: 0.15
+####################Epoch 3 Model Saved#####################
+epoch   4 | iteration    40 | Loss 2.079516 | Acc 70.42% | WER 72.79%
+epoch   4 | iteration    80 | Loss 1.969034 | Acc 69.17% | WER 80.11%
+epoch   4 | iteration   120 | Loss 1.538208 | Acc 75.21% | WER 76.87%
+epoch   4 | iteration   160 | Loss 1.579320 | Acc 75.42% | WER 79.01%
+epoch   4 | iteration   200 | Loss 2.179791 | Acc 68.54% | WER 79.49%
+epoch   4 | iteration   240 | Loss 1.556284 | Acc 76.04% | WER 74.05%
+epoch   4 | iteration   280 | Loss 1.555590 | Acc 75.83% | WER 75.19%
+epoch   4 | iteration   320 | Loss 1.616572 | Acc 75.62% | WER 75.62%
+epoch   4 | iteration   360 | Loss 1.818845 | Acc 72.50% | WER 79.79%
+epoch   4 | iteration   400 | Loss 1.910342 | Acc 71.88% | WER 78.06%
+epoch   4 | iteration   440 | Loss 1.978133 | Acc 70.42% | WER 77.58%
+epoch   4 | iteration   480 | Loss 1.826201 | Acc 73.54% | WER 79.89%
+epoch   4 | iteration   520 | Loss 1.743949 | Acc 73.54% | WER 77.29%
+epoch   4 | iteration   560 | Loss 1.816225 | Acc 72.71% | WER 76.00%
+epoch   4 | iteration   600 | Loss 1.837873 | Acc 71.04% | WER 75.61%
+epoch   4 | iteration   640 | Loss 1.685458 | Acc 73.96% | WER 77.47%
+epoch   4 | iteration   680 | Loss 1.648149 | Acc 74.79% | WER 78.55%
+epoch   4 | iteration   720 | Loss 1.752414 | Acc 73.96% | WER 77.11%
+epoch   4 | iteration   760 | Loss 1.708710 | Acc 73.96% | WER 77.83%
+epoch   4 | iteration   800 | Loss 1.890752 | Acc 70.62% | WER 79.43%
+epoch   4 | iteration   840 | Loss 2.139203 | Acc 68.75% | WER 78.37%
+epoch   4 | iteration   880 | Loss 1.695770 | Acc 74.58% | WER 72.87%
+epoch   4 | iteration   920 | Loss 1.662061 | Acc 72.29% | WER 75.27%
+epoch   4 | iteration   960 | Loss 1.569340 | Acc 74.38% | WER 75.70%
+epoch   4 | iteration  1000 | Loss 2.160109 | Acc 68.75% | WER 75.47%
+epoch   4 | iteration  1040 | Loss 1.841600 | Acc 73.54% | WER 71.38%
+epoch   4 | iteration  1080 | Loss 1.875695 | Acc 71.67% | WER 75.76%
+epoch   4 | iteration  1120 | Loss 1.742033 | Acc 72.92% | WER 80.40%
+Average Training Loss of Epoch 4: 1.764084 | Acc: 73.07% | WER 76.90%
+Average Validation Loss of Epoch 4: 6.159299 | Acc: 39.67% | WER: 180.61% | BLEU-4: 0.00
+Average test Loss of Epoch 4: 6.532116 | Acc: 36.60% | WER: 187.74% | BLEU-4: 0.00
+####################Epoch 4 Model Saved#####################
+epoch   5 | iteration    40 | Loss 1.553012 | Acc 75.21% | WER 71.09%
+epoch   5 | iteration    80 | Loss 1.471938 | Acc 76.04% | WER 71.13%
+epoch   5 | iteration   120 | Loss 1.666175 | Acc 73.96% | WER 69.91%
+epoch   5 | iteration   160 | Loss 1.580641 | Acc 75.83% | WER 74.63%
+epoch   5 | iteration   200 | Loss 1.869975 | Acc 70.62% | WER 74.64%
+epoch   5 | iteration   240 | Loss 1.844532 | Acc 71.88% | WER 76.50%
+epoch   5 | iteration   280 | Loss 1.642081 | Acc 73.96% | WER 74.93%
+epoch   5 | iteration   320 | Loss 1.921879 | Acc 70.00% | WER 76.92%
+epoch   5 | iteration   360 | Loss 1.577101 | Acc 77.50% | WER 67.53%
+epoch   5 | iteration   400 | Loss 1.574220 | Acc 75.00% | WER 73.62%
+epoch   5 | iteration   440 | Loss 1.528268 | Acc 75.42% | WER 72.15%
+epoch   5 | iteration   480 | Loss 1.862030 | Acc 69.79% | WER 74.67%
+epoch   5 | iteration   520 | Loss 1.675493 | Acc 74.17% | WER 75.44%
+epoch   5 | iteration   560 | Loss 1.936212 | Acc 71.46% | WER 74.09%
+epoch   5 | iteration   600 | Loss 1.852505 | Acc 70.00% | WER 74.11%
+epoch   5 | iteration   640 | Loss 1.679330 | Acc 74.58% | WER 71.95%
+epoch   5 | iteration   680 | Loss 1.524466 | Acc 74.58% | WER 72.24%
+epoch   5 | iteration   720 | Loss 1.499225 | Acc 76.25% | WER 78.30%
+epoch   5 | iteration   760 | Loss 1.620486 | Acc 74.17% | WER 74.53%
+epoch   5 | iteration   800 | Loss 1.695096 | Acc 74.17% | WER 71.55%
+epoch   5 | iteration   840 | Loss 1.479533 | Acc 76.67% | WER 72.70%
+epoch   5 | iteration   880 | Loss 1.680397 | Acc 73.96% | WER 70.88%
+epoch   5 | iteration   920 | Loss 1.694106 | Acc 73.12% | WER 78.15%
+epoch   5 | iteration   960 | Loss 1.530499 | Acc 76.88% | WER 74.51%
+epoch   5 | iteration  1000 | Loss 1.610336 | Acc 75.21% | WER 75.08%
+epoch   5 | iteration  1040 | Loss 1.560234 | Acc 74.58% | WER 72.93%
+epoch   5 | iteration  1080 | Loss 1.627518 | Acc 73.33% | WER 76.71%
+epoch   5 | iteration  1120 | Loss 1.513458 | Acc 74.38% | WER 72.37%
+Average Training Loss of Epoch 5: 1.626062 | Acc: 74.25% | WER 73.56%
+Average Validation Loss of Epoch 5: 4.209855 | Acc: 64.85% | WER: 90.61% | BLEU-4: 0.00
+Average test Loss of Epoch 5: 4.200313 | Acc: 64.50% | WER: 89.32% | BLEU-4: 0.00
+####################Epoch 5 Model Saved#####################
+epoch   6 | iteration    40 | Loss 1.653354 | Acc 75.00% | WER 70.83%
+epoch   6 | iteration    80 | Loss 1.383874 | Acc 77.29% | WER 73.26%
+epoch   6 | iteration   120 | Loss 1.733748 | Acc 71.04% | WER 71.26%
+epoch   6 | iteration   160 | Loss 1.560588 | Acc 73.12% | WER 75.29%
+epoch   6 | iteration   200 | Loss 1.422433 | Acc 77.92% | WER 70.26%
+epoch   6 | iteration   240 | Loss 1.631441 | Acc 74.17% | WER 74.11%
+epoch   6 | iteration   280 | Loss 1.619443 | Acc 74.17% | WER 71.25%
+epoch   6 | iteration   320 | Loss 1.390801 | Acc 77.71% | WER 68.85%
+epoch   6 | iteration   360 | Loss 1.379373 | Acc 77.29% | WER 71.44%
+epoch   6 | iteration   400 | Loss 1.489835 | Acc 75.21% | WER 72.71%
+epoch   6 | iteration   440 | Loss 1.509276 | Acc 74.17% | WER 73.41%
+epoch   6 | iteration   480 | Loss 1.527365 | Acc 73.54% | WER 70.44%
+epoch   6 | iteration   520 | Loss 1.601874 | Acc 73.33% | WER 67.31%
+epoch   6 | iteration   560 | Loss 1.507432 | Acc 75.21% | WER 67.68%
+epoch   6 | iteration   600 | Loss 1.201899 | Acc 79.17% | WER 64.79%
+epoch   6 | iteration   640 | Loss 1.419447 | Acc 77.29% | WER 70.59%
+epoch   6 | iteration   680 | Loss 1.409199 | Acc 77.08% | WER 70.93%
+epoch   6 | iteration   720 | Loss 1.938625 | Acc 68.54% | WER 68.97%
+epoch   6 | iteration   760 | Loss 1.430000 | Acc 75.42% | WER 75.79%
+epoch   6 | iteration   800 | Loss 1.160782 | Acc 80.62% | WER 69.95%
+epoch   6 | iteration   840 | Loss 1.674878 | Acc 72.08% | WER 68.02%
+epoch   6 | iteration   880 | Loss 1.351114 | Acc 78.12% | WER 65.86%
+epoch   6 | iteration   920 | Loss 1.623599 | Acc 73.75% | WER 70.67%
+epoch   6 | iteration   960 | Loss 1.428460 | Acc 77.50% | WER 68.16%
+epoch   6 | iteration  1000 | Loss 1.192804 | Acc 78.33% | WER 66.96%
+epoch   6 | iteration  1040 | Loss 1.210107 | Acc 79.17% | WER 66.52%
+epoch   6 | iteration  1080 | Loss 1.752223 | Acc 71.25% | WER 69.41%
+epoch   6 | iteration  1120 | Loss 1.422242 | Acc 76.88% | WER 68.54%
+Average Training Loss of Epoch 6: 1.483881 | Acc: 75.50% | WER 69.98%
+Average Validation Loss of Epoch 6: 4.214815 | Acc: 64.20% | WER: 94.19% | BLEU-4: 0.06
+Average test Loss of Epoch 6: 4.239097 | Acc: 63.75% | WER: 94.67% | BLEU-4: 0.00
+####################Epoch 6 Model Saved#####################
+epoch   7 | iteration    40 | Loss 1.202124 | Acc 80.83% | WER 62.87%
+epoch   7 | iteration    80 | Loss 1.336923 | Acc 75.83% | WER 71.33%
+epoch   7 | iteration   120 | Loss 1.303811 | Acc 77.50% | WER 70.75%
+epoch   7 | iteration   160 | Loss 1.354345 | Acc 75.62% | WER 65.46%
+epoch   7 | iteration   200 | Loss 1.425633 | Acc 75.62% | WER 69.82%
+epoch   7 | iteration   240 | Loss 1.224037 | Acc 78.54% | WER 67.25%
+epoch   7 | iteration   280 | Loss 1.344500 | Acc 76.04% | WER 71.23%
+epoch   7 | iteration   320 | Loss 1.269374 | Acc 76.67% | WER 61.33%
+epoch   7 | iteration   360 | Loss 1.157070 | Acc 80.62% | WER 56.75%
+epoch   7 | iteration   400 | Loss 1.592812 | Acc 72.50% | WER 70.46%
+epoch   7 | iteration   440 | Loss 1.625464 | Acc 74.58% | WER 60.22%
+epoch   7 | iteration   480 | Loss 1.412007 | Acc 75.42% | WER 69.51%
+epoch   7 | iteration   520 | Loss 1.359459 | Acc 75.62% | WER 67.29%
+epoch   7 | iteration   560 | Loss 1.315405 | Acc 76.04% | WER 65.79%
+epoch   7 | iteration   600 | Loss 1.363328 | Acc 77.08% | WER 63.65%
+epoch   7 | iteration   640 | Loss 1.405878 | Acc 76.46% | WER 69.36%
+epoch   7 | iteration   680 | Loss 1.290242 | Acc 77.71% | WER 63.10%
+epoch   7 | iteration   720 | Loss 1.182009 | Acc 78.12% | WER 68.29%
+epoch   7 | iteration   760 | Loss 1.200706 | Acc 78.33% | WER 68.34%
+epoch   7 | iteration   800 | Loss 1.417035 | Acc 75.42% | WER 64.24%
+epoch   7 | iteration   840 | Loss 1.002956 | Acc 81.04% | WER 64.46%
+epoch   7 | iteration   880 | Loss 1.433648 | Acc 75.00% | WER 66.80%
+epoch   7 | iteration   920 | Loss 1.334591 | Acc 76.04% | WER 66.81%
+epoch   7 | iteration   960 | Loss 1.305439 | Acc 76.25% | WER 65.80%
+epoch   7 | iteration  1000 | Loss 1.234267 | Acc 79.58% | WER 60.43%
+epoch   7 | iteration  1040 | Loss 1.381881 | Acc 76.04% | WER 61.06%
+epoch   7 | iteration  1080 | Loss 1.508535 | Acc 75.42% | WER 62.43%
+epoch   7 | iteration  1120 | Loss 1.223748 | Acc 78.75% | WER 63.97%
+Average Training Loss of Epoch 7: 1.326025 | Acc: 77.07% | WER 65.57%
+Average Validation Loss of Epoch 7: 5.043541 | Acc: 55.27% | WER: 124.72% | BLEU-4: 0.00
+Average test Loss of Epoch 7: 4.963171 | Acc: 55.22% | WER: 124.18% | BLEU-4: 0.00
+####################Epoch 7 Model Saved#####################
+epoch   8 | iteration    40 | Loss 1.140185 | Acc 78.96% | WER 67.76%
+epoch   8 | iteration    80 | Loss 1.072613 | Acc 80.83% | WER 57.33%
+epoch   8 | iteration   120 | Loss 1.201444 | Acc 77.50% | WER 66.12%
+epoch   8 | iteration   160 | Loss 1.244777 | Acc 77.29% | WER 65.66%
+epoch   8 | iteration   200 | Loss 1.169321 | Acc 78.54% | WER 62.72%
+epoch   8 | iteration   240 | Loss 1.415287 | Acc 73.33% | WER 67.38%
+epoch   8 | iteration   280 | Loss 1.217867 | Acc 78.75% | WER 56.95%
+epoch   8 | iteration   320 | Loss 1.297615 | Acc 76.25% | WER 63.60%
+epoch   8 | iteration   360 | Loss 1.013128 | Acc 82.08% | WER 54.23%
+epoch   8 | iteration   400 | Loss 1.134372 | Acc 78.54% | WER 59.18%
+epoch   8 | iteration   440 | Loss 1.295167 | Acc 76.04% | WER 61.57%
+epoch   8 | iteration   480 | Loss 1.175795 | Acc 79.38% | WER 54.26%
+epoch   8 | iteration   520 | Loss 1.492322 | Acc 75.00% | WER 59.78%
+epoch   8 | iteration   560 | Loss 1.083079 | Acc 80.21% | WER 58.95%
+epoch   8 | iteration   600 | Loss 1.102594 | Acc 79.79% | WER 60.60%
+epoch   8 | iteration   640 | Loss 1.175216 | Acc 78.12% | WER 61.05%
+epoch   8 | iteration   680 | Loss 1.042231 | Acc 80.83% | WER 61.43%
+epoch   8 | iteration   720 | Loss 1.150574 | Acc 80.00% | WER 51.87%
+epoch   8 | iteration   760 | Loss 1.160103 | Acc 77.92% | WER 62.18%
+epoch   8 | iteration   800 | Loss 1.121386 | Acc 79.58% | WER 56.65%
+epoch   8 | iteration   840 | Loss 1.197913 | Acc 78.96% | WER 59.46%
+epoch   8 | iteration   880 | Loss 0.958131 | Acc 82.71% | WER 50.84%
+epoch   8 | iteration   920 | Loss 1.077223 | Acc 81.67% | WER 59.46%
+epoch   8 | iteration   960 | Loss 1.071050 | Acc 81.67% | WER 53.50%
+epoch   8 | iteration  1000 | Loss 0.960128 | Acc 83.12% | WER 54.75%
+epoch   8 | iteration  1040 | Loss 1.066826 | Acc 79.38% | WER 55.49%
+epoch   8 | iteration  1080 | Loss 1.113387 | Acc 80.00% | WER 54.98%
+epoch   8 | iteration  1120 | Loss 0.995812 | Acc 80.83% | WER 58.67%
+Average Training Loss of Epoch 8: 1.156541 | Acc: 79.15% | WER 59.75%
+Average Validation Loss of Epoch 8: 4.526499 | Acc: 60.00% | WER: 108.44% | BLEU-4: 0.00
+Average test Loss of Epoch 8: 4.672253 | Acc: 59.10% | WER: 109.80% | BLEU-4: 0.00
+####################Epoch 8 Model Saved#####################
+epoch   9 | iteration    40 | Loss 0.982910 | Acc 82.71% | WER 48.95%
+epoch   9 | iteration    80 | Loss 1.189950 | Acc 78.12% | WER 57.70%
+epoch   9 | iteration   120 | Loss 0.969269 | Acc 82.71% | WER 48.83%
+epoch   9 | iteration   160 | Loss 0.993577 | Acc 82.08% | WER 51.62%
+epoch   9 | iteration   200 | Loss 0.910769 | Acc 82.92% | WER 56.66%
+epoch   9 | iteration   240 | Loss 1.130650 | Acc 78.54% | WER 56.08%
+epoch   9 | iteration   280 | Loss 1.033780 | Acc 80.83% | WER 57.66%
+epoch   9 | iteration   320 | Loss 1.093242 | Acc 79.79% | WER 59.14%
+epoch   9 | iteration   360 | Loss 0.944478 | Acc 83.12% | WER 48.63%
+epoch   9 | iteration   400 | Loss 0.960696 | Acc 82.29% | WER 50.61%
+epoch   9 | iteration   440 | Loss 0.837405 | Acc 82.50% | WER 54.67%
+epoch   9 | iteration   480 | Loss 0.903485 | Acc 83.33% | WER 53.59%
+epoch   9 | iteration   520 | Loss 0.998788 | Acc 81.67% | WER 53.98%
+epoch   9 | iteration   560 | Loss 0.976487 | Acc 83.54% | WER 46.97%
+epoch   9 | iteration   600 | Loss 0.967678 | Acc 82.29% | WER 52.20%
+epoch   9 | iteration   640 | Loss 0.885911 | Acc 82.50% | WER 57.42%
+epoch   9 | iteration   680 | Loss 1.043054 | Acc 80.62% | WER 52.44%
+epoch   9 | iteration   720 | Loss 1.000830 | Acc 80.21% | WER 52.79%
+epoch   9 | iteration   760 | Loss 0.894973 | Acc 85.21% | WER 40.14%
+epoch   9 | iteration   800 | Loss 0.934019 | Acc 81.67% | WER 53.64%
+epoch   9 | iteration   840 | Loss 1.047068 | Acc 79.38% | WER 55.94%
+epoch   9 | iteration   880 | Loss 0.942026 | Acc 80.83% | WER 51.46%
+epoch   9 | iteration   920 | Loss 1.121102 | Acc 78.12% | WER 53.34%
+epoch   9 | iteration   960 | Loss 1.078529 | Acc 79.79% | WER 56.98%
+epoch   9 | iteration  1000 | Loss 0.950099 | Acc 82.92% | WER 47.27%
+epoch   9 | iteration  1040 | Loss 0.890151 | Acc 83.75% | WER 48.14%
+epoch   9 | iteration  1080 | Loss 0.812604 | Acc 84.79% | WER 50.52%
+epoch   9 | iteration  1120 | Loss 1.047972 | Acc 79.58% | WER 55.55%
+Average Training Loss of Epoch 9: 0.984818 | Acc: 81.63% | WER 52.99%
+Average Validation Loss of Epoch 9: 4.709058 | Acc: 62.85% | WER: 98.32% | BLEU-4: 0.00
+Average test Loss of Epoch 9: 4.823944 | Acc: 62.67% | WER: 96.63% | BLEU-4: 0.00
+####################Epoch 9 Model Saved#####################
+epoch  10 | iteration    40 | Loss 0.912374 | Acc 83.12% | WER 49.94%
+epoch  10 | iteration    80 | Loss 0.805286 | Acc 84.38% | WER 44.94%
+epoch  10 | iteration   120 | Loss 0.888607 | Acc 81.46% | WER 52.05%
+epoch  10 | iteration   160 | Loss 0.787060 | Acc 84.38% | WER 44.60%
+epoch  10 | iteration   200 | Loss 0.855855 | Acc 83.54% | WER 46.16%
+epoch  10 | iteration   240 | Loss 0.946482 | Acc 82.50% | WER 49.82%
+epoch  10 | iteration   280 | Loss 0.875259 | Acc 86.04% | WER 41.52%
+epoch  10 | iteration   320 | Loss 0.715531 | Acc 86.25% | WER 43.35%
+epoch  10 | iteration   360 | Loss 0.941047 | Acc 82.71% | WER 47.17%
+epoch  10 | iteration   400 | Loss 0.855309 | Acc 84.58% | WER 42.84%
+epoch  10 | iteration   440 | Loss 0.820103 | Acc 84.38% | WER 46.01%
+epoch  10 | iteration   480 | Loss 0.899732 | Acc 83.75% | WER 50.79%
+epoch  10 | iteration   520 | Loss 0.720200 | Acc 86.67% | WER 44.30%
+epoch  10 | iteration   560 | Loss 0.818995 | Acc 83.75% | WER 46.13%
+epoch  10 | iteration   600 | Loss 0.731132 | Acc 86.46% | WER 47.15%
+epoch  10 | iteration   640 | Loss 0.737735 | Acc 86.04% | WER 45.57%
+epoch  10 | iteration   680 | Loss 0.683050 | Acc 86.67% | WER 43.15%
+epoch  10 | iteration   720 | Loss 0.938134 | Acc 82.08% | WER 51.24%
+epoch  10 | iteration   760 | Loss 0.802238 | Acc 85.00% | WER 40.77%
+epoch  10 | iteration   800 | Loss 0.737114 | Acc 85.42% | WER 46.11%
+epoch  10 | iteration   840 | Loss 0.892396 | Acc 82.92% | WER 52.03%
+epoch  10 | iteration   880 | Loss 0.772788 | Acc 86.04% | WER 43.27%
+epoch  10 | iteration   920 | Loss 0.718813 | Acc 86.88% | WER 38.55%
+epoch  10 | iteration   960 | Loss 0.758269 | Acc 86.46% | WER 47.59%
+epoch  10 | iteration  1000 | Loss 0.880843 | Acc 82.92% | WER 43.85%
+epoch  10 | iteration  1040 | Loss 0.979222 | Acc 81.46% | WER 41.65%
+epoch  10 | iteration  1080 | Loss 0.836888 | Acc 84.79% | WER 39.98%
+epoch  10 | iteration  1120 | Loss 0.666804 | Acc 86.46% | WER 42.69%
+Average Training Loss of Epoch 10: 0.823748 | Acc: 84.53% | WER 45.03%
+Average Validation Loss of Epoch 10: 5.144983 | Acc: 63.63% | WER: 94.15% | BLEU-4: 0.00
+Average test Loss of Epoch 10: 5.133637 | Acc: 63.25% | WER: 93.96% | BLEU-4: 0.00
+####################Epoch 10 Model Saved####################
+epoch  11 | iteration    40 | Loss 0.643814 | Acc 87.71% | WER 40.12%
+epoch  11 | iteration    80 | Loss 0.815030 | Acc 85.00% | WER 39.16%
+epoch  11 | iteration   120 | Loss 0.606541 | Acc 87.71% | WER 38.97%
+epoch  11 | iteration   160 | Loss 0.656721 | Acc 87.92% | WER 39.51%
+epoch  11 | iteration   200 | Loss 0.690070 | Acc 85.83% | WER 46.15%
+epoch  11 | iteration   240 | Loss 0.699626 | Acc 87.50% | WER 34.20%
+epoch  11 | iteration   280 | Loss 0.680489 | Acc 86.67% | WER 38.26%
+epoch  11 | iteration   320 | Loss 0.673205 | Acc 87.29% | WER 41.24%
+epoch  11 | iteration   360 | Loss 0.698243 | Acc 88.75% | WER 35.91%
+epoch  11 | iteration   400 | Loss 0.788798 | Acc 85.00% | WER 44.89%
+epoch  11 | iteration   440 | Loss 0.669311 | Acc 85.83% | WER 47.04%
+epoch  11 | iteration   480 | Loss 0.575423 | Acc 88.54% | WER 39.79%
+epoch  11 | iteration   520 | Loss 0.718172 | Acc 87.29% | WER 33.11%
+epoch  11 | iteration   560 | Loss 0.578888 | Acc 88.54% | WER 36.99%
+epoch  11 | iteration   600 | Loss 0.687481 | Acc 87.50% | WER 35.72%
+epoch  11 | iteration   640 | Loss 0.667993 | Acc 87.29% | WER 41.41%
+epoch  11 | iteration   680 | Loss 0.693477 | Acc 87.08% | WER 33.36%
+epoch  11 | iteration   720 | Loss 0.606412 | Acc 89.38% | WER 33.99%
+epoch  11 | iteration   760 | Loss 0.698722 | Acc 85.83% | WER 44.66%
+epoch  11 | iteration   800 | Loss 0.720042 | Acc 85.83% | WER 39.90%
+epoch  11 | iteration   840 | Loss 0.707140 | Acc 86.25% | WER 36.61%
+epoch  11 | iteration   880 | Loss 0.766104 | Acc 86.67% | WER 37.95%
+epoch  11 | iteration   920 | Loss 0.674811 | Acc 86.67% | WER 39.66%
+epoch  11 | iteration   960 | Loss 0.720204 | Acc 87.92% | WER 32.14%
+epoch  11 | iteration  1000 | Loss 0.661026 | Acc 88.12% | WER 38.53%
+epoch  11 | iteration  1040 | Loss 0.640289 | Acc 86.25% | WER 36.65%
+epoch  11 | iteration  1080 | Loss 0.686664 | Acc 87.29% | WER 32.81%
+epoch  11 | iteration  1120 | Loss 0.659400 | Acc 87.71% | WER 39.57%
+Average Training Loss of Epoch 11: 0.684479 | Acc: 87.19% | WER 37.85%
+Average Validation Loss of Epoch 11: 5.135453 | Acc: 62.37% | WER: 100.92% | BLEU-4: 0.13
+Average test Loss of Epoch 11: 5.377873 | Acc: 61.15% | WER: 102.66% | BLEU-4: 0.06
+####################Epoch 11 Model Saved####################
+epoch  12 | iteration    40 | Loss 0.610905 | Acc 87.08% | WER 35.75%
+epoch  12 | iteration    80 | Loss 0.608857 | Acc 89.17% | WER 30.46%
+epoch  12 | iteration   120 | Loss 0.513644 | Acc 91.46% | WER 27.92%
+epoch  12 | iteration   160 | Loss 0.551539 | Acc 88.75% | WER 32.37%
+epoch  12 | iteration   200 | Loss 0.524487 | Acc 89.79% | WER 34.58%
+epoch  12 | iteration   240 | Loss 0.589131 | Acc 89.38% | WER 31.73%
+epoch  12 | iteration   280 | Loss 0.696870 | Acc 85.83% | WER 40.95%
+epoch  12 | iteration   320 | Loss 0.541267 | Acc 90.62% | WER 28.31%
+epoch  12 | iteration   360 | Loss 0.564615 | Acc 89.38% | WER 32.41%
+epoch  12 | iteration   400 | Loss 0.561624 | Acc 88.54% | WER 33.98%
+epoch  12 | iteration   440 | Loss 0.611710 | Acc 89.79% | WER 28.12%
+epoch  12 | iteration   480 | Loss 0.478449 | Acc 91.67% | WER 30.60%
+epoch  12 | iteration   520 | Loss 0.548591 | Acc 90.42% | WER 28.58%
+epoch  12 | iteration   560 | Loss 0.618846 | Acc 88.54% | WER 31.36%
+epoch  12 | iteration   600 | Loss 0.630968 | Acc 88.12% | WER 34.09%
+epoch  12 | iteration   640 | Loss 0.553448 | Acc 90.42% | WER 31.46%
+epoch  12 | iteration   680 | Loss 0.562810 | Acc 90.62% | WER 24.77%
+epoch  12 | iteration   720 | Loss 0.595695 | Acc 89.38% | WER 33.13%
+epoch  12 | iteration   760 | Loss 0.522782 | Acc 90.42% | WER 28.21%
+epoch  12 | iteration   800 | Loss 0.509819 | Acc 90.00% | WER 35.72%
+epoch  12 | iteration   840 | Loss 0.577559 | Acc 87.92% | WER 35.22%
+epoch  12 | iteration   880 | Loss 0.490897 | Acc 91.25% | WER 30.57%
+epoch  12 | iteration   920 | Loss 0.759423 | Acc 85.83% | WER 37.72%
+epoch  12 | iteration   960 | Loss 0.470536 | Acc 91.04% | WER 30.52%
+epoch  12 | iteration  1000 | Loss 0.727210 | Acc 83.96% | WER 37.49%
+epoch  12 | iteration  1040 | Loss 0.623904 | Acc 88.12% | WER 33.87%
+epoch  12 | iteration  1080 | Loss 0.572312 | Acc 89.17% | WER 34.76%
+epoch  12 | iteration  1120 | Loss 0.503183 | Acc 90.42% | WER 26.55%
+Average Training Loss of Epoch 12: 0.575091 | Acc: 89.28% | WER 32.17%
+Average Validation Loss of Epoch 12: 5.340797 | Acc: 63.30% | WER: 96.65% | BLEU-4: 0.07
+Average test Loss of Epoch 12: 5.268035 | Acc: 63.65% | WER: 94.42% | BLEU-4: 0.00
+####################Epoch 12 Model Saved####################
+epoch  13 | iteration    40 | Loss 0.452610 | Acc 92.50% | WER 23.46%
+epoch  13 | iteration    80 | Loss 0.408999 | Acc 92.08% | WER 27.20%
+epoch  13 | iteration   120 | Loss 0.497247 | Acc 90.83% | WER 26.26%
+epoch  13 | iteration   160 | Loss 0.500781 | Acc 91.04% | WER 30.15%
+epoch  13 | iteration   200 | Loss 0.493622 | Acc 91.88% | WER 24.30%
+epoch  13 | iteration   240 | Loss 0.436945 | Acc 92.29% | WER 22.21%
+epoch  13 | iteration   280 | Loss 0.557391 | Acc 90.42% | WER 30.13%
+epoch  13 | iteration   320 | Loss 0.531684 | Acc 91.04% | WER 27.02%
+epoch  13 | iteration   360 | Loss 0.517489 | Acc 90.00% | WER 29.26%
+epoch  13 | iteration   400 | Loss 0.489199 | Acc 88.75% | WER 33.79%
+epoch  13 | iteration   440 | Loss 0.472123 | Acc 92.29% | WER 28.89%
+epoch  13 | iteration   480 | Loss 0.564600 | Acc 90.00% | WER 27.47%
+epoch  13 | iteration   520 | Loss 0.461856 | Acc 91.25% | WER 28.42%
+epoch  13 | iteration   560 | Loss 0.521499 | Acc 90.21% | WER 27.57%
+epoch  13 | iteration   600 | Loss 0.427138 | Acc 92.71% | WER 25.13%
+epoch  13 | iteration   640 | Loss 0.507905 | Acc 90.21% | WER 27.01%
+epoch  13 | iteration   680 | Loss 0.467326 | Acc 92.50% | WER 25.24%
+epoch  13 | iteration   720 | Loss 0.439147 | Acc 91.88% | WER 26.47%
+epoch  13 | iteration   760 | Loss 0.442736 | Acc 93.33% | WER 21.06%
+epoch  13 | iteration   800 | Loss 0.581119 | Acc 88.33% | WER 32.34%
+epoch  13 | iteration   840 | Loss 0.491203 | Acc 90.62% | WER 31.21%
+epoch  13 | iteration   880 | Loss 0.533075 | Acc 90.83% | WER 30.04%
+epoch  13 | iteration   920 | Loss 0.487849 | Acc 89.38% | WER 27.92%
+epoch  13 | iteration   960 | Loss 0.520228 | Acc 90.00% | WER 28.68%
+epoch  13 | iteration  1000 | Loss 0.523271 | Acc 89.79% | WER 26.89%
+epoch  13 | iteration  1040 | Loss 0.474070 | Acc 89.38% | WER 33.76%
+epoch  13 | iteration  1080 | Loss 0.446970 | Acc 91.25% | WER 28.81%
+epoch  13 | iteration  1120 | Loss 0.425553 | Acc 91.88% | WER 24.58%
+Average Training Loss of Epoch 13: 0.498022 | Acc: 90.64% | WER 28.48%
+Average Validation Loss of Epoch 13: 5.725984 | Acc: 62.92% | WER: 97.67% | BLEU-4: 0.00
+Average test Loss of Epoch 13: 5.793257 | Acc: 62.87% | WER: 97.64% | BLEU-4: 0.00
+####################Epoch 13 Model Saved####################
+epoch  14 | iteration    40 | Loss 0.469988 | Acc 91.67% | WER 22.85%
+epoch  14 | iteration    80 | Loss 0.411338 | Acc 92.08% | WER 24.56%
+epoch  14 | iteration   120 | Loss 0.480215 | Acc 90.83% | WER 27.14%
+epoch  14 | iteration   160 | Loss 0.490477 | Acc 92.50% | WER 25.63%
+epoch  14 | iteration   200 | Loss 0.446877 | Acc 92.29% | WER 23.13%
+epoch  14 | iteration   240 | Loss 0.438037 | Acc 91.25% | WER 26.39%
+epoch  14 | iteration   280 | Loss 0.491885 | Acc 90.42% | WER 28.91%
+epoch  14 | iteration   320 | Loss 0.455717 | Acc 91.67% | WER 30.86%
+epoch  14 | iteration   360 | Loss 0.448523 | Acc 91.25% | WER 25.62%
+epoch  14 | iteration   400 | Loss 0.535544 | Acc 89.58% | WER 29.29%
+epoch  14 | iteration   440 | Loss 0.474203 | Acc 91.46% | WER 24.28%
+epoch  14 | iteration   480 | Loss 0.407775 | Acc 92.50% | WER 26.02%
+epoch  14 | iteration   520 | Loss 0.404042 | Acc 91.88% | WER 23.43%
+epoch  14 | iteration   560 | Loss 0.435377 | Acc 92.08% | WER 26.36%
+epoch  14 | iteration   600 | Loss 0.471100 | Acc 92.71% | WER 22.66%
+epoch  14 | iteration   640 | Loss 0.401961 | Acc 92.08% | WER 22.51%
+epoch  14 | iteration   680 | Loss 0.410141 | Acc 92.08% | WER 29.39%
+epoch  14 | iteration   720 | Loss 0.417501 | Acc 91.46% | WER 26.93%
+epoch  14 | iteration   760 | Loss 0.371432 | Acc 92.50% | WER 27.42%
+epoch  14 | iteration   800 | Loss 0.533505 | Acc 90.21% | WER 29.48%
+epoch  14 | iteration   840 | Loss 0.415353 | Acc 92.08% | WER 26.79%
+epoch  14 | iteration   880 | Loss 0.419654 | Acc 91.04% | WER 26.39%
+epoch  14 | iteration   920 | Loss 0.408440 | Acc 93.54% | WER 19.39%
+epoch  14 | iteration   960 | Loss 0.469747 | Acc 91.25% | WER 23.79%
+epoch  14 | iteration  1000 | Loss 0.431562 | Acc 91.88% | WER 26.38%
+epoch  14 | iteration  1040 | Loss 0.436932 | Acc 91.04% | WER 31.37%
+epoch  14 | iteration  1080 | Loss 0.398911 | Acc 92.29% | WER 29.62%
+epoch  14 | iteration  1120 | Loss 0.454452 | Acc 90.62% | WER 27.40%
+Average Training Loss of Epoch 14: 0.445159 | Acc: 91.53% | WER 26.02%
+Average Validation Loss of Epoch 14: 5.601996 | Acc: 63.35% | WER: 98.17% | BLEU-4: 0.00
+Average test Loss of Epoch 14: 5.717958 | Acc: 62.85% | WER: 98.46% | BLEU-4: 0.06
+####################Epoch 14 Model Saved####################
+epoch  15 | iteration    40 | Loss 0.394262 | Acc 91.46% | WER 23.58%
+epoch  15 | iteration    80 | Loss 0.389836 | Acc 92.08% | WER 23.88%
+epoch  15 | iteration   120 | Loss 0.391841 | Acc 92.08% | WER 26.40%
+epoch  15 | iteration   160 | Loss 0.410230 | Acc 92.50% | WER 21.98%
+epoch  15 | iteration   200 | Loss 0.420815 | Acc 91.46% | WER 24.58%
+epoch  15 | iteration   240 | Loss 0.381513 | Acc 91.88% | WER 25.22%
+epoch  15 | iteration   280 | Loss 0.404019 | Acc 92.29% | WER 22.69%
+epoch  15 | iteration   320 | Loss 0.365602 | Acc 92.92% | WER 21.78%
+epoch  15 | iteration   360 | Loss 0.435397 | Acc 91.46% | WER 24.99%
+epoch  15 | iteration   400 | Loss 0.413256 | Acc 90.83% | WER 31.39%
+epoch  15 | iteration   440 | Loss 0.386073 | Acc 91.88% | WER 24.92%
+epoch  15 | iteration   480 | Loss 0.386824 | Acc 92.92% | WER 18.18%
+epoch  15 | iteration   520 | Loss 0.406321 | Acc 93.12% | WER 20.21%
+epoch  15 | iteration   560 | Loss 0.372459 | Acc 93.12% | WER 20.47%
+epoch  15 | iteration   600 | Loss 0.425468 | Acc 91.67% | WER 24.93%
+epoch  15 | iteration   640 | Loss 0.418211 | Acc 90.62% | WER 29.30%
+epoch  15 | iteration   680 | Loss 0.393512 | Acc 92.92% | WER 24.04%
+epoch  15 | iteration   720 | Loss 0.481045 | Acc 90.21% | WER 29.04%
+epoch  15 | iteration   760 | Loss 0.352798 | Acc 92.71% | WER 23.35%
+epoch  15 | iteration   800 | Loss 0.410956 | Acc 92.29% | WER 23.49%
+epoch  15 | iteration   840 | Loss 0.416636 | Acc 90.83% | WER 24.01%
+epoch  15 | iteration   880 | Loss 0.401697 | Acc 90.62% | WER 34.28%
+epoch  15 | iteration   920 | Loss 0.413178 | Acc 92.08% | WER 27.50%
+epoch  15 | iteration   960 | Loss 0.422862 | Acc 93.33% | WER 17.66%
+epoch  15 | iteration  1000 | Loss 0.466096 | Acc 90.62% | WER 27.08%
+epoch  15 | iteration  1040 | Loss 0.369903 | Acc 92.92% | WER 18.36%
+epoch  15 | iteration  1080 | Loss 0.379942 | Acc 93.12% | WER 19.26%
+epoch  15 | iteration  1120 | Loss 0.440886 | Acc 90.21% | WER 26.90%
+Average Training Loss of Epoch 15: 0.408470 | Acc: 92.11% | WER 24.34%
+Average Validation Loss of Epoch 15: 6.023657 | Acc: 60.95% | WER: 104.92% | BLEU-4: 0.09
+Average test Loss of Epoch 15: 6.170136 | Acc: 60.30% | WER: 105.84% | BLEU-4: 0.00
+####################Epoch 15 Model Saved####################
+epoch  16 | iteration    40 | Loss 0.367774 | Acc 94.58% | WER 17.22%
+epoch  16 | iteration    80 | Loss 0.328759 | Acc 92.92% | WER 19.88%
+epoch  16 | iteration   120 | Loss 0.353159 | Acc 92.71% | WER 25.96%
+epoch  16 | iteration   160 | Loss 0.377537 | Acc 92.08% | WER 23.20%
+epoch  16 | iteration   200 | Loss 0.367791 | Acc 92.08% | WER 26.12%
+epoch  16 | iteration   240 | Loss 0.412033 | Acc 92.08% | WER 20.02%
+epoch  16 | iteration   280 | Loss 0.374768 | Acc 92.50% | WER 23.00%
+epoch  16 | iteration   320 | Loss 0.334541 | Acc 93.33% | WER 16.85%
+epoch  16 | iteration   360 | Loss 0.393876 | Acc 91.46% | WER 30.80%
+epoch  16 | iteration   400 | Loss 0.391635 | Acc 92.50% | WER 26.68%
+epoch  16 | iteration   440 | Loss 0.368829 | Acc 92.92% | WER 20.16%
+epoch  16 | iteration   480 | Loss 0.431463 | Acc 91.67% | WER 23.71%
+epoch  16 | iteration   520 | Loss 0.375043 | Acc 92.29% | WER 24.03%
+epoch  16 | iteration   560 | Loss 0.402017 | Acc 91.88% | WER 22.47%
+epoch  16 | iteration   600 | Loss 0.355578 | Acc 94.17% | WER 17.28%
+epoch  16 | iteration   640 | Loss 0.348022 | Acc 93.12% | WER 24.00%
+epoch  16 | iteration   680 | Loss 0.388613 | Acc 91.67% | WER 22.29%
+epoch  16 | iteration   720 | Loss 0.330895 | Acc 92.71% | WER 23.01%
+epoch  16 | iteration   760 | Loss 0.370880 | Acc 92.29% | WER 23.36%
+epoch  16 | iteration   800 | Loss 0.414476 | Acc 91.88% | WER 25.49%
+epoch  16 | iteration   840 | Loss 0.396915 | Acc 92.50% | WER 24.04%
+epoch  16 | iteration   880 | Loss 0.420833 | Acc 90.21% | WER 27.54%
+epoch  16 | iteration   920 | Loss 0.363942 | Acc 92.08% | WER 29.66%
+epoch  16 | iteration   960 | Loss 0.329200 | Acc 93.54% | WER 18.20%
+epoch  16 | iteration  1000 | Loss 0.362992 | Acc 93.75% | WER 19.41%
+epoch  16 | iteration  1040 | Loss 0.381988 | Acc 91.67% | WER 25.32%
+epoch  16 | iteration  1080 | Loss 0.442940 | Acc 90.42% | WER 28.16%
+epoch  16 | iteration  1120 | Loss 0.393949 | Acc 92.29% | WER 22.94%
+Average Training Loss of Epoch 16: 0.381273 | Acc: 92.53% | WER 23.06%
+Average Validation Loss of Epoch 16: 5.907111 | Acc: 63.28% | WER: 97.30% | BLEU-4: 0.05
+Average test Loss of Epoch 16: 6.057748 | Acc: 62.82% | WER: 96.34% | BLEU-4: 0.00
+####################Epoch 16 Model Saved####################
+epoch  17 | iteration    40 | Loss 0.379926 | Acc 91.67% | WER 25.26%
+epoch  17 | iteration    80 | Loss 0.405508 | Acc 92.29% | WER 24.13%
+epoch  17 | iteration   120 | Loss 0.360411 | Acc 92.08% | WER 24.95%
+epoch  17 | iteration   160 | Loss 0.341597 | Acc 94.17% | WER 16.88%
+epoch  17 | iteration   200 | Loss 0.346671 | Acc 93.12% | WER 27.26%
+epoch  17 | iteration   240 | Loss 0.379186 | Acc 91.88% | WER 23.41%
+epoch  17 | iteration   280 | Loss 0.395184 | Acc 91.67% | WER 22.10%
+epoch  17 | iteration   320 | Loss 0.324318 | Acc 93.12% | WER 27.79%
+epoch  17 | iteration   360 | Loss 0.352026 | Acc 93.12% | WER 18.36%
+epoch  17 | iteration   400 | Loss 0.326705 | Acc 93.54% | WER 18.50%
+epoch  17 | iteration   440 | Loss 0.370178 | Acc 92.08% | WER 24.21%
+epoch  17 | iteration   480 | Loss 0.343816 | Acc 93.12% | WER 21.32%
+epoch  17 | iteration   520 | Loss 0.363472 | Acc 91.88% | WER 21.95%
+epoch  17 | iteration   560 | Loss 0.359982 | Acc 91.88% | WER 19.40%
+epoch  17 | iteration   600 | Loss 0.374229 | Acc 91.67% | WER 29.09%
+epoch  17 | iteration   640 | Loss 0.388590 | Acc 92.92% | WER 22.76%
+epoch  17 | iteration   680 | Loss 0.404370 | Acc 91.67% | WER 19.93%
+epoch  17 | iteration   720 | Loss 0.349778 | Acc 91.88% | WER 28.24%
+epoch  17 | iteration   760 | Loss 0.344225 | Acc 92.50% | WER 19.72%
+epoch  17 | iteration   800 | Loss 0.357521 | Acc 93.54% | WER 18.87%
+epoch  17 | iteration   840 | Loss 0.402286 | Acc 91.04% | WER 25.33%
+epoch  17 | iteration   880 | Loss 0.314554 | Acc 93.96% | WER 19.13%
+epoch  17 | iteration   920 | Loss 0.341980 | Acc 93.33% | WER 23.10%
+epoch  17 | iteration   960 | Loss 0.378537 | Acc 92.92% | WER 22.58%
+epoch  17 | iteration  1000 | Loss 0.377948 | Acc 91.88% | WER 20.36%
+epoch  17 | iteration  1040 | Loss 0.376535 | Acc 91.88% | WER 24.78%
+epoch  17 | iteration  1080 | Loss 0.333177 | Acc 93.54% | WER 23.38%
+epoch  17 | iteration  1120 | Loss 0.348003 | Acc 94.17% | WER 17.09%
+Average Training Loss of Epoch 17: 0.361429 | Acc: 92.80% | WER 22.29%
+Average Validation Loss of Epoch 17: 6.044178 | Acc: 62.72% | WER: 98.89% | BLEU-4: 0.05
+Average test Loss of Epoch 17: 6.158353 | Acc: 62.25% | WER: 98.41% | BLEU-4: 0.00
+####################Epoch 17 Model Saved####################
+epoch  18 | iteration    40 | Loss 0.323912 | Acc 93.12% | WER 20.65%
+epoch  18 | iteration    80 | Loss 0.350718 | Acc 92.92% | WER 19.73%
+epoch  18 | iteration   120 | Loss 0.328312 | Acc 93.75% | WER 18.17%
+epoch  18 | iteration   160 | Loss 0.346196 | Acc 92.92% | WER 22.05%
+epoch  18 | iteration   200 | Loss 0.366066 | Acc 92.50% | WER 20.50%
+epoch  18 | iteration   240 | Loss 0.350452 | Acc 92.50% | WER 21.08%
+epoch  18 | iteration   280 | Loss 0.326664 | Acc 92.92% | WER 20.26%
+epoch  18 | iteration   320 | Loss 0.393672 | Acc 92.29% | WER 24.79%
+epoch  18 | iteration   360 | Loss 0.267383 | Acc 93.54% | WER 23.43%
+epoch  18 | iteration   400 | Loss 0.329523 | Acc 94.58% | WER 17.06%
+epoch  18 | iteration   440 | Loss 0.290768 | Acc 93.75% | WER 18.78%
+epoch  18 | iteration   480 | Loss 0.351312 | Acc 94.17% | WER 17.25%
+epoch  18 | iteration   520 | Loss 0.409038 | Acc 91.25% | WER 31.33%
+epoch  18 | iteration   560 | Loss 0.320210 | Acc 93.75% | WER 18.42%
+epoch  18 | iteration   600 | Loss 0.331875 | Acc 94.38% | WER 18.05%
+epoch  18 | iteration   640 | Loss 0.345901 | Acc 92.71% | WER 23.75%
+epoch  18 | iteration   680 | Loss 0.430288 | Acc 92.08% | WER 25.02%
+epoch  18 | iteration   720 | Loss 0.373525 | Acc 92.29% | WER 25.69%
+epoch  18 | iteration   760 | Loss 0.326451 | Acc 93.54% | WER 22.16%
+epoch  18 | iteration   800 | Loss 0.389694 | Acc 92.71% | WER 25.76%
+epoch  18 | iteration   840 | Loss 0.323670 | Acc 94.38% | WER 15.96%
+epoch  18 | iteration   880 | Loss 0.336986 | Acc 92.71% | WER 22.69%
+epoch  18 | iteration   920 | Loss 0.361041 | Acc 93.12% | WER 20.71%
+epoch  18 | iteration   960 | Loss 0.355766 | Acc 93.54% | WER 18.59%
+epoch  18 | iteration  1000 | Loss 0.412598 | Acc 91.04% | WER 26.31%
+epoch  18 | iteration  1040 | Loss 0.355834 | Acc 92.92% | WER 19.89%
+epoch  18 | iteration  1080 | Loss 0.363541 | Acc 93.12% | WER 23.75%
+epoch  18 | iteration  1120 | Loss 0.416683 | Acc 92.08% | WER 22.94%
+Average Training Loss of Epoch 18: 0.343570 | Acc: 93.08% | WER 21.43%
+Average Validation Loss of Epoch 18: 6.143440 | Acc: 62.75% | WER: 98.74% | BLEU-4: 0.00
+Average test Loss of Epoch 18: 6.243406 | Acc: 62.60% | WER: 98.04% | BLEU-4: 0.00
+####################Epoch 18 Model Saved####################
+epoch  19 | iteration    40 | Loss 0.308647 | Acc 94.17% | WER 17.79%
+epoch  19 | iteration    80 | Loss 0.283469 | Acc 95.00% | WER 14.26%
+epoch  19 | iteration   120 | Loss 0.312880 | Acc 95.00% | WER 15.28%
+epoch  19 | iteration   160 | Loss 0.318203 | Acc 93.96% | WER 18.97%
+epoch  19 | iteration   200 | Loss 0.326328 | Acc 93.75% | WER 19.34%
+epoch  19 | iteration   240 | Loss 0.359743 | Acc 93.54% | WER 19.31%
+epoch  19 | iteration   280 | Loss 0.346617 | Acc 91.67% | WER 25.88%
+epoch  19 | iteration   320 | Loss 0.291093 | Acc 93.75% | WER 16.84%
+epoch  19 | iteration   360 | Loss 0.380943 | Acc 92.29% | WER 23.18%
+epoch  19 | iteration   400 | Loss 0.294830 | Acc 93.75% | WER 20.53%
+epoch  19 | iteration   440 | Loss 0.331474 | Acc 92.71% | WER 21.40%
+epoch  19 | iteration   480 | Loss 0.360935 | Acc 92.71% | WER 23.90%
+epoch  19 | iteration   520 | Loss 0.361487 | Acc 93.12% | WER 17.70%
+epoch  19 | iteration   560 | Loss 0.304647 | Acc 94.58% | WER 18.65%
+epoch  19 | iteration   600 | Loss 0.321728 | Acc 93.96% | WER 17.29%
+epoch  19 | iteration   640 | Loss 0.313249 | Acc 94.17% | WER 19.78%
+epoch  19 | iteration   680 | Loss 0.327945 | Acc 93.75% | WER 20.00%
+epoch  19 | iteration   720 | Loss 0.380633 | Acc 91.67% | WER 23.07%
+epoch  19 | iteration   760 | Loss 0.327176 | Acc 92.71% | WER 26.96%
+epoch  19 | iteration   800 | Loss 0.313896 | Acc 92.71% | WER 23.52%
+epoch  19 | iteration   840 | Loss 0.347012 | Acc 92.08% | WER 23.75%
+epoch  19 | iteration   880 | Loss 0.282244 | Acc 94.38% | WER 19.21%
+epoch  19 | iteration   920 | Loss 0.330032 | Acc 92.50% | WER 24.48%
+epoch  19 | iteration   960 | Loss 0.261334 | Acc 95.42% | WER 16.84%
+epoch  19 | iteration  1000 | Loss 0.378216 | Acc 92.08% | WER 26.07%
+epoch  19 | iteration  1040 | Loss 0.315418 | Acc 94.17% | WER 21.17%
+epoch  19 | iteration  1080 | Loss 0.363436 | Acc 91.67% | WER 26.09%
+epoch  19 | iteration  1120 | Loss 0.333911 | Acc 93.54% | WER 19.15%
+Average Training Loss of Epoch 19: 0.327330 | Acc: 93.29% | WER 20.75%
+Average Validation Loss of Epoch 19: 6.110828 | Acc: 63.80% | WER: 94.16% | BLEU-4: 0.00
+Average test Loss of Epoch 19: 6.379549 | Acc: 62.50% | WER: 96.65% | BLEU-4: 0.06
+####################Epoch 19 Model Saved####################
+epoch  20 | iteration    40 | Loss 0.267368 | Acc 94.58% | WER 15.87%
+epoch  20 | iteration    80 | Loss 0.305228 | Acc 92.92% | WER 21.39%
+epoch  20 | iteration   120 | Loss 0.286764 | Acc 94.38% | WER 15.26%
+epoch  20 | iteration   160 | Loss 0.300906 | Acc 93.12% | WER 23.69%
+epoch  20 | iteration   200 | Loss 0.296087 | Acc 95.00% | WER 12.30%
+epoch  20 | iteration   240 | Loss 0.310501 | Acc 93.12% | WER 17.81%
+epoch  20 | iteration   280 | Loss 0.296408 | Acc 94.38% | WER 15.68%
+epoch  20 | iteration   320 | Loss 0.336607 | Acc 92.71% | WER 22.56%
+epoch  20 | iteration   360 | Loss 0.306161 | Acc 93.33% | WER 17.05%
+epoch  20 | iteration   400 | Loss 0.278414 | Acc 95.00% | WER 16.32%
+epoch  20 | iteration   440 | Loss 0.282904 | Acc 93.96% | WER 18.28%
+epoch  20 | iteration   480 | Loss 0.339724 | Acc 92.71% | WER 25.81%
+epoch  20 | iteration   520 | Loss 0.298478 | Acc 94.58% | WER 16.97%
+epoch  20 | iteration   560 | Loss 0.287252 | Acc 94.79% | WER 14.77%
+epoch  20 | iteration   600 | Loss 0.325006 | Acc 93.75% | WER 18.35%
+epoch  20 | iteration   640 | Loss 0.262184 | Acc 93.96% | WER 18.99%
+epoch  20 | iteration   680 | Loss 0.297508 | Acc 94.79% | WER 17.10%
+epoch  20 | iteration   720 | Loss 0.338772 | Acc 93.33% | WER 19.79%
+epoch  20 | iteration   760 | Loss 0.328919 | Acc 93.75% | WER 20.19%
+epoch  20 | iteration   800 | Loss 0.313916 | Acc 94.17% | WER 20.47%
+epoch  20 | iteration   840 | Loss 0.301205 | Acc 94.58% | WER 20.45%
+epoch  20 | iteration   880 | Loss 0.393330 | Acc 92.92% | WER 23.31%
+epoch  20 | iteration   920 | Loss 0.277344 | Acc 93.96% | WER 19.44%
+epoch  20 | iteration   960 | Loss 0.304797 | Acc 94.38% | WER 20.02%
+epoch  20 | iteration  1000 | Loss 0.310435 | Acc 93.12% | WER 21.95%
+epoch  20 | iteration  1040 | Loss 0.340042 | Acc 93.12% | WER 25.14%
+epoch  20 | iteration  1080 | Loss 0.354084 | Acc 92.92% | WER 22.03%
+epoch  20 | iteration  1120 | Loss 0.332110 | Acc 93.12% | WER 20.92%
+Average Training Loss of Epoch 20: 0.314461 | Acc: 93.51% | WER 20.11%
+Average Validation Loss of Epoch 20: 6.188187 | Acc: 62.42% | WER: 100.86% | BLEU-4: 0.18
+Average test Loss of Epoch 20: 6.236757 | Acc: 62.48% | WER: 99.34% | BLEU-4: 0.10
+####################Epoch 20 Model Saved####################
+epoch  21 | iteration    40 | Loss 0.343562 | Acc 92.71% | WER 21.76%
+epoch  21 | iteration    80 | Loss 0.300854 | Acc 92.08% | WER 18.87%
+epoch  21 | iteration   120 | Loss 0.286913 | Acc 94.38% | WER 17.63%
+epoch  21 | iteration   160 | Loss 0.275906 | Acc 93.96% | WER 22.21%
+epoch  21 | iteration   200 | Loss 0.282763 | Acc 93.54% | WER 19.64%
+epoch  21 | iteration   240 | Loss 0.349273 | Acc 92.71% | WER 23.81%
+epoch  21 | iteration   280 | Loss 0.284116 | Acc 94.17% | WER 18.31%
+epoch  21 | iteration   320 | Loss 0.290832 | Acc 93.54% | WER 20.43%
+epoch  21 | iteration   360 | Loss 0.321224 | Acc 93.54% | WER 19.24%
+epoch  21 | iteration   400 | Loss 0.326004 | Acc 92.92% | WER 21.04%
+epoch  21 | iteration   440 | Loss 0.245064 | Acc 94.38% | WER 23.62%
+epoch  21 | iteration   480 | Loss 0.306044 | Acc 93.33% | WER 21.21%
+epoch  21 | iteration   520 | Loss 0.305044 | Acc 94.58% | WER 19.44%
+epoch  21 | iteration   560 | Loss 0.349693 | Acc 92.50% | WER 23.15%
+epoch  21 | iteration   600 | Loss 0.269544 | Acc 94.17% | WER 19.02%
+epoch  21 | iteration   640 | Loss 0.267776 | Acc 94.58% | WER 16.81%
+epoch  21 | iteration   680 | Loss 0.318772 | Acc 93.96% | WER 18.67%
+epoch  21 | iteration   720 | Loss 0.307429 | Acc 93.96% | WER 15.38%
+epoch  21 | iteration   760 | Loss 0.275114 | Acc 94.38% | WER 18.04%
+epoch  21 | iteration   800 | Loss 0.293078 | Acc 92.92% | WER 22.60%
+epoch  21 | iteration   840 | Loss 0.319911 | Acc 92.92% | WER 20.80%
+epoch  21 | iteration   880 | Loss 0.299620 | Acc 94.17% | WER 19.18%
+epoch  21 | iteration   920 | Loss 0.290777 | Acc 93.96% | WER 18.41%
+epoch  21 | iteration   960 | Loss 0.302645 | Acc 95.42% | WER 12.51%
+epoch  21 | iteration  1000 | Loss 0.339085 | Acc 92.92% | WER 21.91%
+epoch  21 | iteration  1040 | Loss 0.291199 | Acc 93.96% | WER 19.01%
+epoch  21 | iteration  1080 | Loss 0.265703 | Acc 94.38% | WER 17.12%
+epoch  21 | iteration  1120 | Loss 0.341300 | Acc 92.92% | WER 17.96%
+Average Training Loss of Epoch 21: 0.300105 | Acc: 93.71% | WER 19.48%
+Average Validation Loss of Epoch 21: 6.334879 | Acc: 63.33% | WER: 95.79% | BLEU-4: 0.36
+Average test Loss of Epoch 21: 6.459102 | Acc: 62.87% | WER: 96.50% | BLEU-4: 0.08
+####################Epoch 21 Model Saved####################
+epoch  22 | iteration    40 | Loss 0.304805 | Acc 93.54% | WER 19.12%
+epoch  22 | iteration    80 | Loss 0.263835 | Acc 94.17% | WER 17.66%
+epoch  22 | iteration   120 | Loss 0.256439 | Acc 94.17% | WER 19.48%
+epoch  22 | iteration   160 | Loss 0.245241 | Acc 95.00% | WER 17.51%
+epoch  22 | iteration   200 | Loss 0.276721 | Acc 93.75% | WER 16.79%
+epoch  22 | iteration   240 | Loss 0.306591 | Acc 93.54% | WER 20.59%
+epoch  22 | iteration   280 | Loss 0.285769 | Acc 93.96% | WER 17.96%
+epoch  22 | iteration   320 | Loss 0.289632 | Acc 93.96% | WER 18.63%
+epoch  22 | iteration   360 | Loss 0.233636 | Acc 94.79% | WER 18.21%
+epoch  22 | iteration   400 | Loss 0.307748 | Acc 93.96% | WER 20.15%
+epoch  22 | iteration   440 | Loss 0.293824 | Acc 93.54% | WER 19.80%
+epoch  22 | iteration   480 | Loss 0.289239 | Acc 93.33% | WER 18.88%
+epoch  22 | iteration   520 | Loss 0.297375 | Acc 93.96% | WER 15.04%
+epoch  22 | iteration   560 | Loss 0.267239 | Acc 95.00% | WER 16.35%
+epoch  22 | iteration   600 | Loss 0.277588 | Acc 93.33% | WER 19.98%
+epoch  22 | iteration   640 | Loss 0.303474 | Acc 93.96% | WER 14.49%
+epoch  22 | iteration   680 | Loss 0.292548 | Acc 93.12% | WER 19.60%
+epoch  22 | iteration   720 | Loss 0.290589 | Acc 94.17% | WER 17.16%
+epoch  22 | iteration   760 | Loss 0.333594 | Acc 93.12% | WER 22.31%
+epoch  22 | iteration   800 | Loss 0.271656 | Acc 93.96% | WER 20.24%
+epoch  22 | iteration   840 | Loss 0.255787 | Acc 94.17% | WER 16.14%
+epoch  22 | iteration   880 | Loss 0.300098 | Acc 93.33% | WER 17.33%
+epoch  22 | iteration   920 | Loss 0.323153 | Acc 93.33% | WER 22.26%
+epoch  22 | iteration   960 | Loss 0.304727 | Acc 93.33% | WER 21.53%
+epoch  22 | iteration  1000 | Loss 0.307709 | Acc 94.38% | WER 14.47%
+epoch  22 | iteration  1040 | Loss 0.233594 | Acc 94.38% | WER 17.12%
+epoch  22 | iteration  1080 | Loss 0.312589 | Acc 93.33% | WER 19.96%
+epoch  22 | iteration  1120 | Loss 0.291580 | Acc 94.58% | WER 13.98%
+Average Training Loss of Epoch 22: 0.287411 | Acc: 93.89% | WER 18.85%
+Average Validation Loss of Epoch 22: 6.301208 | Acc: 62.83% | WER: 94.22% | BLEU-4: 0.80
+Average test Loss of Epoch 22: 6.241831 | Acc: 63.73% | WER: 92.77% | BLEU-4: 0.55
+####################Epoch 22 Model Saved####################
+epoch  23 | iteration    40 | Loss 0.230131 | Acc 95.21% | WER 17.11%
+epoch  23 | iteration    80 | Loss 0.270464 | Acc 94.58% | WER 17.50%
+epoch  23 | iteration   120 | Loss 0.245450 | Acc 94.79% | WER 18.00%
+epoch  23 | iteration   160 | Loss 0.264797 | Acc 93.75% | WER 21.60%
+epoch  23 | iteration   200 | Loss 0.263149 | Acc 95.21% | WER 14.58%
+epoch  23 | iteration   240 | Loss 0.230029 | Acc 94.79% | WER 16.15%
+epoch  23 | iteration   280 | Loss 0.298512 | Acc 92.50% | WER 19.63%
+epoch  23 | iteration   320 | Loss 0.277356 | Acc 93.96% | WER 16.53%
+epoch  23 | iteration   360 | Loss 0.338142 | Acc 92.71% | WER 21.21%
+epoch  23 | iteration   400 | Loss 0.309798 | Acc 92.71% | WER 20.84%
+epoch  23 | iteration   440 | Loss 0.226281 | Acc 95.21% | WER 16.84%
+epoch  23 | iteration   480 | Loss 0.247442 | Acc 94.58% | WER 17.34%
+epoch  23 | iteration   520 | Loss 0.250588 | Acc 94.79% | WER 16.35%
+epoch  23 | iteration   560 | Loss 0.263455 | Acc 94.17% | WER 19.93%
+epoch  23 | iteration   600 | Loss 0.257980 | Acc 94.79% | WER 15.70%
+epoch  23 | iteration   640 | Loss 0.285398 | Acc 93.96% | WER 17.45%
+epoch  23 | iteration   680 | Loss 0.219135 | Acc 95.42% | WER 14.56%
+epoch  23 | iteration   720 | Loss 0.348308 | Acc 92.50% | WER 22.53%
+epoch  23 | iteration   760 | Loss 0.282540 | Acc 94.38% | WER 23.17%
+epoch  23 | iteration   800 | Loss 0.300120 | Acc 92.92% | WER 21.94%
+epoch  23 | iteration   840 | Loss 0.258637 | Acc 95.42% | WER 13.57%
+epoch  23 | iteration   880 | Loss 0.254292 | Acc 93.54% | WER 21.70%
+epoch  23 | iteration   920 | Loss 0.311146 | Acc 92.92% | WER 22.07%
+epoch  23 | iteration   960 | Loss 0.290894 | Acc 94.17% | WER 17.31%
+epoch  23 | iteration  1000 | Loss 0.252658 | Acc 93.54% | WER 19.02%
+epoch  23 | iteration  1040 | Loss 0.296224 | Acc 92.92% | WER 22.12%
+epoch  23 | iteration  1080 | Loss 0.255361 | Acc 93.75% | WER 21.83%
+epoch  23 | iteration  1120 | Loss 0.294109 | Acc 93.54% | WER 18.18%
+Average Training Loss of Epoch 23: 0.274537 | Acc: 94.06% | WER 18.35%
+Average Validation Loss of Epoch 23: 6.358976 | Acc: 63.15% | WER: 97.60% | BLEU-4: 0.18
+Average test Loss of Epoch 23: 6.394355 | Acc: 63.07% | WER: 95.91% | BLEU-4: 0.00
+####################Epoch 23 Model Saved####################
+epoch  24 | iteration    40 | Loss 0.274157 | Acc 93.54% | WER 17.91%
+epoch  24 | iteration    80 | Loss 0.220257 | Acc 94.58% | WER 17.37%
+epoch  24 | iteration   120 | Loss 0.270660 | Acc 93.96% | WER 16.18%
+epoch  24 | iteration   160 | Loss 0.239876 | Acc 95.21% | WER 13.97%
+epoch  24 | iteration   200 | Loss 0.282871 | Acc 93.75% | WER 18.80%
+epoch  24 | iteration   240 | Loss 0.233016 | Acc 95.00% | WER 19.01%
+epoch  24 | iteration   280 | Loss 0.214101 | Acc 95.62% | WER 15.27%
+epoch  24 | iteration   320 | Loss 0.231900 | Acc 93.12% | WER 22.49%
+epoch  24 | iteration   360 | Loss 0.277346 | Acc 94.58% | WER 20.03%
+epoch  24 | iteration   400 | Loss 0.304500 | Acc 93.33% | WER 21.79%
+epoch  24 | iteration   440 | Loss 0.221165 | Acc 95.00% | WER 17.16%
+epoch  24 | iteration   480 | Loss 0.289141 | Acc 93.75% | WER 17.17%
+epoch  24 | iteration   520 | Loss 0.235369 | Acc 95.00% | WER 17.70%
+epoch  24 | iteration   560 | Loss 0.260739 | Acc 95.00% | WER 14.59%
+epoch  24 | iteration   600 | Loss 0.299387 | Acc 93.33% | WER 21.27%
+epoch  24 | iteration   640 | Loss 0.284857 | Acc 93.54% | WER 16.32%
+epoch  24 | iteration   680 | Loss 0.249753 | Acc 95.00% | WER 14.78%
+epoch  24 | iteration   720 | Loss 0.282970 | Acc 93.75% | WER 19.54%
+epoch  24 | iteration   760 | Loss 0.278286 | Acc 93.33% | WER 19.21%
+epoch  24 | iteration   800 | Loss 0.255229 | Acc 95.00% | WER 17.67%
+epoch  24 | iteration   840 | Loss 0.315253 | Acc 93.12% | WER 24.06%
+epoch  24 | iteration   880 | Loss 0.286287 | Acc 93.96% | WER 17.98%
+epoch  24 | iteration   920 | Loss 0.289547 | Acc 94.17% | WER 18.56%
+epoch  24 | iteration   960 | Loss 0.250428 | Acc 93.96% | WER 20.57%
+epoch  24 | iteration  1000 | Loss 0.213378 | Acc 94.79% | WER 15.79%
+epoch  24 | iteration  1040 | Loss 0.210962 | Acc 95.21% | WER 15.78%
+epoch  24 | iteration  1080 | Loss 0.331872 | Acc 93.33% | WER 21.57%
+epoch  24 | iteration  1120 | Loss 0.240121 | Acc 94.58% | WER 15.43%
+Average Training Loss of Epoch 24: 0.261870 | Acc: 94.28% | WER 17.65%
+Average Validation Loss of Epoch 24: 6.657314 | Acc: 62.20% | WER: 98.88% | BLEU-4: 0.16
+Average test Loss of Epoch 24: 6.418630 | Acc: 63.35% | WER: 95.61% | BLEU-4: 0.10
+####################Epoch 24 Model Saved####################
+epoch  25 | iteration    40 | Loss 0.326478 | Acc 93.54% | WER 19.96%
+epoch  25 | iteration    80 | Loss 0.217376 | Acc 94.58% | WER 19.65%
+epoch  25 | iteration   120 | Loss 0.276612 | Acc 94.17% | WER 18.76%
+epoch  25 | iteration   160 | Loss 0.221201 | Acc 95.21% | WER 13.64%
+epoch  25 | iteration   200 | Loss 0.192445 | Acc 96.04% | WER 12.81%
+epoch  25 | iteration   240 | Loss 0.268964 | Acc 94.38% | WER 15.87%
+epoch  25 | iteration   280 | Loss 0.221556 | Acc 95.00% | WER 19.81%
+epoch  25 | iteration   320 | Loss 0.268856 | Acc 94.58% | WER 16.58%
+epoch  25 | iteration   360 | Loss 0.282868 | Acc 93.54% | WER 18.72%
+epoch  25 | iteration   400 | Loss 0.277398 | Acc 94.38% | WER 17.32%
+epoch  25 | iteration   440 | Loss 0.271307 | Acc 94.17% | WER 15.54%
+epoch  25 | iteration   480 | Loss 0.208505 | Acc 95.21% | WER 15.63%
+epoch  25 | iteration   520 | Loss 0.184778 | Acc 95.42% | WER 13.30%
+epoch  25 | iteration   560 | Loss 0.250772 | Acc 93.33% | WER 18.49%
+epoch  25 | iteration   600 | Loss 0.269963 | Acc 94.17% | WER 17.72%
+epoch  25 | iteration   640 | Loss 0.242156 | Acc 95.00% | WER 16.49%
+epoch  25 | iteration   680 | Loss 0.240865 | Acc 95.00% | WER 14.44%
+epoch  25 | iteration   720 | Loss 0.235991 | Acc 95.42% | WER 14.31%
+epoch  25 | iteration   760 | Loss 0.255213 | Acc 94.17% | WER 17.45%
+epoch  25 | iteration   800 | Loss 0.259259 | Acc 94.38% | WER 17.48%
+epoch  25 | iteration   840 | Loss 0.206664 | Acc 95.00% | WER 13.61%
+epoch  25 | iteration   880 | Loss 0.282430 | Acc 93.75% | WER 19.34%
+epoch  25 | iteration   920 | Loss 0.272480 | Acc 94.38% | WER 14.60%
+epoch  25 | iteration   960 | Loss 0.290240 | Acc 94.17% | WER 17.90%
+epoch  25 | iteration  1000 | Loss 0.303687 | Acc 94.17% | WER 14.20%
+epoch  25 | iteration  1040 | Loss 0.240359 | Acc 95.21% | WER 15.78%
+epoch  25 | iteration  1080 | Loss 0.316134 | Acc 92.29% | WER 21.05%
+epoch  25 | iteration  1120 | Loss 0.272285 | Acc 94.38% | WER 18.18%
+Average Training Loss of Epoch 25: 0.249422 | Acc: 94.50% | WER 16.96%
+Average Validation Loss of Epoch 25: 6.430921 | Acc: 63.77% | WER: 93.45% | BLEU-4: 0.17
+Average test Loss of Epoch 25: 6.516727 | Acc: 63.65% | WER: 93.36% | BLEU-4: 0.23
+####################Epoch 25 Model Saved####################
+epoch  26 | iteration    40 | Loss 0.227053 | Acc 95.00% | WER 15.72%
+epoch  26 | iteration    80 | Loss 0.252449 | Acc 95.00% | WER 14.49%
+epoch  26 | iteration   120 | Loss 0.228993 | Acc 95.42% | WER 12.60%
+epoch  26 | iteration   160 | Loss 0.232363 | Acc 94.17% | WER 20.84%
+epoch  26 | iteration   200 | Loss 0.241430 | Acc 94.17% | WER 18.53%
+epoch  26 | iteration   240 | Loss 0.216886 | Acc 95.21% | WER 14.21%
+epoch  26 | iteration   280 | Loss 0.224645 | Acc 95.00% | WER 14.56%
+epoch  26 | iteration   320 | Loss 0.265423 | Acc 93.96% | WER 16.66%
+epoch  26 | iteration   360 | Loss 0.239740 | Acc 94.79% | WER 18.52%
+epoch  26 | iteration   400 | Loss 0.243486 | Acc 94.79% | WER 15.47%
+epoch  26 | iteration   440 | Loss 0.216367 | Acc 95.21% | WER 16.29%
+epoch  26 | iteration   480 | Loss 0.234135 | Acc 94.58% | WER 15.72%
+epoch  26 | iteration   520 | Loss 0.235402 | Acc 95.00% | WER 16.45%
+epoch  26 | iteration   560 | Loss 0.246317 | Acc 93.96% | WER 17.15%
+epoch  26 | iteration   600 | Loss 0.233754 | Acc 95.42% | WER 15.08%
+epoch  26 | iteration   640 | Loss 0.204008 | Acc 95.00% | WER 15.11%
+epoch  26 | iteration   680 | Loss 0.209315 | Acc 95.42% | WER 13.19%
+epoch  26 | iteration   720 | Loss 0.300018 | Acc 93.96% | WER 21.26%
+epoch  26 | iteration   760 | Loss 0.271734 | Acc 94.79% | WER 17.32%
+epoch  26 | iteration   800 | Loss 0.206735 | Acc 95.62% | WER 12.26%
+epoch  26 | iteration   840 | Loss 0.203909 | Acc 96.25% | WER 12.81%
+epoch  26 | iteration   880 | Loss 0.236637 | Acc 92.71% | WER 22.77%
+epoch  26 | iteration   920 | Loss 0.243262 | Acc 93.75% | WER 19.56%
+epoch  26 | iteration   960 | Loss 0.202543 | Acc 94.79% | WER 19.91%
+epoch  26 | iteration  1000 | Loss 0.296525 | Acc 93.75% | WER 17.61%
+epoch  26 | iteration  1040 | Loss 0.213488 | Acc 94.38% | WER 16.31%
+epoch  26 | iteration  1080 | Loss 0.283277 | Acc 93.33% | WER 20.96%
+epoch  26 | iteration  1120 | Loss 0.245822 | Acc 94.58% | WER 19.26%
+Average Training Loss of Epoch 26: 0.238556 | Acc: 94.64% | WER 16.49%
+Average Validation Loss of Epoch 26: 6.707137 | Acc: 63.03% | WER: 94.84% | BLEU-4: 0.00
+Average test Loss of Epoch 26: 6.615492 | Acc: 63.83% | WER: 94.66% | BLEU-4: 0.22
+####################Epoch 26 Model Saved####################
+epoch  27 | iteration    40 | Loss 0.227348 | Acc 95.00% | WER 12.95%
+epoch  27 | iteration    80 | Loss 0.191000 | Acc 95.83% | WER 13.97%
+epoch  27 | iteration   120 | Loss 0.253791 | Acc 93.33% | WER 18.15%
+epoch  27 | iteration   160 | Loss 0.192746 | Acc 95.42% | WER 13.16%
+epoch  27 | iteration   200 | Loss 0.206017 | Acc 94.79% | WER 18.16%
+epoch  27 | iteration   240 | Loss 0.174256 | Acc 96.25% | WER 11.53%
+epoch  27 | iteration   280 | Loss 0.271936 | Acc 93.33% | WER 18.58%
+epoch  27 | iteration   320 | Loss 0.170332 | Acc 96.88% | WER 9.04%
+epoch  27 | iteration   360 | Loss 0.265507 | Acc 95.00% | WER 13.94%
+epoch  27 | iteration   400 | Loss 0.245041 | Acc 95.00% | WER 17.89%
+epoch  27 | iteration   440 | Loss 0.212309 | Acc 95.42% | WER 15.36%
+epoch  27 | iteration   480 | Loss 0.245733 | Acc 95.21% | WER 17.17%
+epoch  27 | iteration   520 | Loss 0.221195 | Acc 95.21% | WER 17.07%
+epoch  27 | iteration   560 | Loss 0.254770 | Acc 94.58% | WER 18.10%
+epoch  27 | iteration   600 | Loss 0.248206 | Acc 95.00% | WER 15.86%
+epoch  27 | iteration   640 | Loss 0.259900 | Acc 94.58% | WER 15.40%
+epoch  27 | iteration   680 | Loss 0.230507 | Acc 95.00% | WER 14.78%
+epoch  27 | iteration   720 | Loss 0.242836 | Acc 94.17% | WER 23.25%
+epoch  27 | iteration   760 | Loss 0.190792 | Acc 95.21% | WER 14.83%
+epoch  27 | iteration   800 | Loss 0.239149 | Acc 95.00% | WER 15.22%
+epoch  27 | iteration   840 | Loss 0.223610 | Acc 94.58% | WER 15.25%
+epoch  27 | iteration   880 | Loss 0.239728 | Acc 94.17% | WER 20.24%
+epoch  27 | iteration   920 | Loss 0.252447 | Acc 93.96% | WER 19.88%
+epoch  27 | iteration   960 | Loss 0.191461 | Acc 96.46% | WER 10.33%
+epoch  27 | iteration  1000 | Loss 0.246308 | Acc 95.21% | WER 13.79%
+epoch  27 | iteration  1040 | Loss 0.225671 | Acc 95.00% | WER 16.39%
+epoch  27 | iteration  1080 | Loss 0.215735 | Acc 94.17% | WER 19.47%
+epoch  27 | iteration  1120 | Loss 0.211783 | Acc 95.00% | WER 14.41%
+Average Training Loss of Epoch 27: 0.227095 | Acc: 94.87% | WER 15.78%
+Average Validation Loss of Epoch 27: 6.331412 | Acc: 63.62% | WER: 94.88% | BLEU-4: 0.17
+Average test Loss of Epoch 27: 6.383895 | Acc: 63.63% | WER: 92.84% | BLEU-4: 0.13
+####################Epoch 27 Model Saved####################
+epoch  28 | iteration    40 | Loss 0.198949 | Acc 96.04% | WER 14.54%
+epoch  28 | iteration    80 | Loss 0.182241 | Acc 96.04% | WER 13.75%
+epoch  28 | iteration   120 | Loss 0.221752 | Acc 94.17% | WER 17.18%
+epoch  28 | iteration   160 | Loss 0.200580 | Acc 96.04% | WER 11.82%
+epoch  28 | iteration   200 | Loss 0.194735 | Acc 95.62% | WER 14.16%
+epoch  28 | iteration   240 | Loss 0.224545 | Acc 95.21% | WER 14.27%
+epoch  28 | iteration   280 | Loss 0.134183 | Acc 97.71% | WER 6.73%
+epoch  28 | iteration   320 | Loss 0.184729 | Acc 95.21% | WER 13.95%
+epoch  28 | iteration   360 | Loss 0.158496 | Acc 95.62% | WER 14.78%
+epoch  28 | iteration   400 | Loss 0.200044 | Acc 95.00% | WER 18.16%
+epoch  28 | iteration   440 | Loss 0.214163 | Acc 94.38% | WER 17.34%
+epoch  28 | iteration   480 | Loss 0.222761 | Acc 94.79% | WER 19.34%
+epoch  28 | iteration   520 | Loss 0.242224 | Acc 93.54% | WER 18.55%
+epoch  28 | iteration   560 | Loss 0.262649 | Acc 93.96% | WER 21.45%
+epoch  28 | iteration   600 | Loss 0.217710 | Acc 95.62% | WER 13.59%
+epoch  28 | iteration   640 | Loss 0.169920 | Acc 96.46% | WER 14.31%
+epoch  28 | iteration   680 | Loss 0.222146 | Acc 95.21% | WER 12.33%
+epoch  28 | iteration   720 | Loss 0.210770 | Acc 95.21% | WER 11.97%
+epoch  28 | iteration   760 | Loss 0.221878 | Acc 95.21% | WER 14.58%
+epoch  28 | iteration   800 | Loss 0.227910 | Acc 94.38% | WER 17.22%
+epoch  28 | iteration   840 | Loss 0.210510 | Acc 94.58% | WER 15.92%
+epoch  28 | iteration   880 | Loss 0.201254 | Acc 95.83% | WER 16.00%
+epoch  28 | iteration   920 | Loss 0.239964 | Acc 95.83% | WER 12.06%
+epoch  28 | iteration   960 | Loss 0.199107 | Acc 95.42% | WER 16.61%
+epoch  28 | iteration  1000 | Loss 0.224376 | Acc 94.38% | WER 15.03%
+epoch  28 | iteration  1040 | Loss 0.202127 | Acc 95.21% | WER 14.05%
+epoch  28 | iteration  1080 | Loss 0.239133 | Acc 94.79% | WER 19.39%
+epoch  28 | iteration  1120 | Loss 0.258660 | Acc 93.96% | WER 15.70%
+Average Training Loss of Epoch 28: 0.216018 | Acc: 95.01% | WER 15.30%
+Average Validation Loss of Epoch 28: 6.454709 | Acc: 63.67% | WER: 94.20% | BLEU-4: 0.17
+Average test Loss of Epoch 28: 6.533611 | Acc: 63.28% | WER: 93.63% | BLEU-4: 0.15
+####################Epoch 28 Model Saved####################
+epoch  29 | iteration    40 | Loss 0.195571 | Acc 95.42% | WER 14.33%
+epoch  29 | iteration    80 | Loss 0.151177 | Acc 96.88% | WER 9.69%
+epoch  29 | iteration   120 | Loss 0.206659 | Acc 95.42% | WER 13.56%
+epoch  29 | iteration   160 | Loss 0.218510 | Acc 93.75% | WER 21.10%
+epoch  29 | iteration   200 | Loss 0.195660 | Acc 94.79% | WER 13.61%
+epoch  29 | iteration   240 | Loss 0.243275 | Acc 94.17% | WER 16.75%
+epoch  29 | iteration   280 | Loss 0.182310 | Acc 95.21% | WER 14.85%
+epoch  29 | iteration   320 | Loss 0.170705 | Acc 96.25% | WER 12.92%
+epoch  29 | iteration   360 | Loss 0.197615 | Acc 95.83% | WER 12.09%
+epoch  29 | iteration   400 | Loss 0.166836 | Acc 95.62% | WER 13.91%
+epoch  29 | iteration   440 | Loss 0.236082 | Acc 93.96% | WER 16.14%
+epoch  29 | iteration   480 | Loss 0.193082 | Acc 95.42% | WER 14.54%
+epoch  29 | iteration   520 | Loss 0.154525 | Acc 95.83% | WER 13.65%
+epoch  29 | iteration   560 | Loss 0.206974 | Acc 94.79% | WER 16.21%
+epoch  29 | iteration   600 | Loss 0.186173 | Acc 95.21% | WER 14.39%
+epoch  29 | iteration   640 | Loss 0.185654 | Acc 96.04% | WER 12.65%
+epoch  29 | iteration   680 | Loss 0.162126 | Acc 96.25% | WER 11.30%
+epoch  29 | iteration   720 | Loss 0.238584 | Acc 94.38% | WER 15.77%
+epoch  29 | iteration   760 | Loss 0.225395 | Acc 94.58% | WER 15.88%
+epoch  29 | iteration   800 | Loss 0.209640 | Acc 94.17% | WER 22.73%
+epoch  29 | iteration   840 | Loss 0.229688 | Acc 95.00% | WER 16.24%
+epoch  29 | iteration   880 | Loss 0.156982 | Acc 96.67% | WER 10.13%
+epoch  29 | iteration   920 | Loss 0.193517 | Acc 94.38% | WER 17.66%
+epoch  29 | iteration   960 | Loss 0.203521 | Acc 95.21% | WER 14.32%
+epoch  29 | iteration  1000 | Loss 0.241868 | Acc 95.62% | WER 15.44%
+epoch  29 | iteration  1040 | Loss 0.218779 | Acc 94.79% | WER 13.78%
+epoch  29 | iteration  1080 | Loss 0.214534 | Acc 94.79% | WER 15.08%
+epoch  29 | iteration  1120 | Loss 0.226470 | Acc 95.00% | WER 15.75%
+Average Training Loss of Epoch 29: 0.205517 | Acc: 95.23% | WER 14.61%
+Average Validation Loss of Epoch 29: 6.586229 | Acc: 62.70% | WER: 97.59% | BLEU-4: 0.80
+Average test Loss of Epoch 29: 6.519937 | Acc: 63.50% | WER: 93.39% | BLEU-4: 0.26
+####################Epoch 29 Model Saved####################
+epoch  30 | iteration    40 | Loss 0.170373 | Acc 96.25% | WER 11.03%
+epoch  30 | iteration    80 | Loss 0.123147 | Acc 97.08% | WER 9.75%
+epoch  30 | iteration   120 | Loss 0.191597 | Acc 95.42% | WER 14.86%
+epoch  30 | iteration   160 | Loss 0.190838 | Acc 95.42% | WER 16.88%
+epoch  30 | iteration   200 | Loss 0.242062 | Acc 95.21% | WER 10.83%
+epoch  30 | iteration   240 | Loss 0.185664 | Acc 95.21% | WER 14.97%

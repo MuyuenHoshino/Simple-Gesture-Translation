@@ -1,0 +1,29 @@
+Logging to file...
+Dataset samples: 498
+######################Training Started######################
+epoch   1 | iteration    20 | Loss 0.699452 | Acc 43.75%
+Average Training Loss of Epoch 1: 0.700383 | Acc: 50.00%
+Average Validation Loss of Epoch 1: 0.663353 | Acc: 52.70%
+Average test Loss of Epoch 1: 0.668264 | Acc: 60.00%
+####################Epoch 1 Model Saved#####################
+epoch   2 | iteration    20 | Loss 0.625830 | Acc 75.00%
+Average Training Loss of Epoch 2: 0.631932 | Acc: 72.99%
+Average Validation Loss of Epoch 2: 0.509795 | Acc: 98.65%
+Average test Loss of Epoch 2: 0.472867 | Acc: 100.00%
+####################Epoch 2 Model Saved#####################
+epoch   3 | iteration    20 | Loss 0.401279 | Acc 87.50%
+Average Training Loss of Epoch 3: 0.220738 | Acc: 95.19%
+Average Validation Loss of Epoch 3: 0.198202 | Acc: 95.95%
+Average test Loss of Epoch 3: 0.024214 | Acc: 100.00%
+####################Epoch 3 Model Saved#####################
+epoch   4 | iteration    20 | Loss 0.055203 | Acc 93.75%
+Average Training Loss of Epoch 4: 0.057900 | Acc: 98.40%
+Average Validation Loss of Epoch 4: 0.144315 | Acc: 97.30%
+Average test Loss of Epoch 4: 0.015437 | Acc: 100.00%
+####################Epoch 4 Model Saved#####################
+epoch   5 | iteration    20 | Loss 0.218368 | Acc 87.50%
+Average Training Loss of Epoch 5: 0.082438 | Acc: 96.79%
+Average Validation Loss of Epoch 5: 0.105915 | Acc: 97.30%
+Average test Loss of Epoch 5: 0.010863 | Acc: 100.00%
+####################Epoch 5 Model Saved#####################
+#####################Training Finished######################

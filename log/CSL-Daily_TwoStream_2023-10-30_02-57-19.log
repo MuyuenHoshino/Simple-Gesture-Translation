@@ -1,0 +1,5 @@
+Logging to file...
+Dataset samples: 6
+######################Training Started######################
+Average Training Loss of Epoch 1: 9.150241 | Acc: 0.00% | WER 1000.00% | BLEU-4 0.00
+Average Validation Loss of Epoch 1: 9.137506 | Acc: 0.00% | WER: 401.79% | BLEU-4: 0.00

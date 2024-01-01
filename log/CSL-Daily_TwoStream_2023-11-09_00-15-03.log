@@ -1,0 +1,31 @@
+Logging to file...
+Dataset samples: 18800
+######################Training Started######################
+epoch   1 | iteration    40 | Loss 2.199163 | Acc 72.50% | WER 91.69%
+epoch   1 | iteration    80 | Loss 2.221755 | Acc 70.83% | WER 87.47%
+epoch   1 | iteration   120 | Loss 2.451444 | Acc 66.46% | WER 87.81%
+epoch   1 | iteration   160 | Loss 2.000976 | Acc 71.25% | WER 90.43%
+epoch   1 | iteration   200 | Loss 2.612679 | Acc 65.00% | WER 83.59%
+epoch   1 | iteration   240 | Loss 2.436179 | Acc 67.08% | WER 86.75%
+epoch   1 | iteration   280 | Loss 2.640755 | Acc 62.50% | WER 87.47%
+epoch   1 | iteration   320 | Loss 2.217502 | Acc 70.21% | WER 89.59%
+epoch   1 | iteration   360 | Loss 2.135990 | Acc 69.38% | WER 83.51%
+epoch   1 | iteration   400 | Loss 1.959615 | Acc 72.92% | WER 82.73%
+epoch   1 | iteration   440 | Loss 2.035475 | Acc 71.25% | WER 80.68%
+epoch   1 | iteration   480 | Loss 2.139354 | Acc 68.12% | WER 88.14%
+epoch   1 | iteration   520 | Loss 2.332362 | Acc 67.50% | WER 90.36%
+epoch   1 | iteration   560 | Loss 2.423015 | Acc 67.92% | WER 87.65%
+epoch   1 | iteration   600 | Loss 2.364906 | Acc 67.71% | WER 83.70%
+epoch   1 | iteration   640 | Loss 1.859753 | Acc 74.38% | WER 82.02%
+epoch   1 | iteration   680 | Loss 2.123884 | Acc 70.00% | WER 86.14%
+epoch   1 | iteration   720 | Loss 2.040321 | Acc 69.17% | WER 85.90%
+epoch   1 | iteration   760 | Loss 2.044361 | Acc 72.71% | WER 81.96%
+epoch   1 | iteration   800 | Loss 1.917665 | Acc 71.67% | WER 85.25%
+epoch   1 | iteration   840 | Loss 2.445905 | Acc 65.62% | WER 82.54%
+epoch   1 | iteration   880 | Loss 1.963974 | Acc 70.62% | WER 84.11%
+epoch   1 | iteration   920 | Loss 1.853257 | Acc 73.75% | WER 83.66%
+epoch   1 | iteration   960 | Loss 2.121947 | Acc 70.00% | WER 79.72%
+epoch   1 | iteration  1000 | Loss 2.308445 | Acc 68.12% | WER 81.54%
+epoch   1 | iteration  1040 | Loss 2.384872 | Acc 64.79% | WER 84.45%
+epoch   1 | iteration  1080 | Loss 2.519056 | Acc 63.96% | WER 81.10%
+epoch   1 | iteration  1120 | Loss 2.118189 | Acc 70.83% | WER 79.13%

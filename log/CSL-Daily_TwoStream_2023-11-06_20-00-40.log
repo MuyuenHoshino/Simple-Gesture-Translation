@@ -1,0 +1,25 @@
+Logging to file...
+Dataset samples: 18601
+######################Training Started######################
+epoch   1 | iteration    20 | Loss 7.455004 | WER 100.00%
+epoch   1 | iteration    40 | Loss 11.098865 | WER 100.00%
+epoch   1 | iteration    60 | Loss 5.940084 | WER 100.00%
+epoch   1 | iteration    80 | Loss 6.866541 | WER 100.00%
+epoch   1 | iteration   100 | Loss 12.701478 | WER 100.00%
+epoch   1 | iteration   120 | Loss 5.617677 | WER 100.00%
+epoch   1 | iteration   140 | Loss 7.079857 | WER 100.00%
+epoch   1 | iteration   160 | Loss 5.768374 | WER 100.00%
+epoch   1 | iteration   180 | Loss 5.246435 | WER 100.00%
+epoch   1 | iteration   200 | Loss 6.964935 | WER 100.00%
+epoch   1 | iteration   220 | Loss 5.297295 | WER 100.00%
+epoch   1 | iteration   240 | Loss 5.852542 | WER 100.00%
+epoch   1 | iteration   260 | Loss 5.140151 | WER 100.00%
+epoch   1 | iteration   280 | Loss 5.233644 | WER 100.00%
+epoch   1 | iteration   300 | Loss 6.063127 | WER 100.00%
+epoch   1 | iteration   320 | Loss 5.541550 | WER 100.00%
+epoch   1 | iteration   340 | Loss 5.640665 | WER 100.00%
+epoch   1 | iteration   360 | Loss 4.979433 | WER 100.00%
+epoch   1 | iteration   380 | Loss 5.912849 | WER 100.00%
+epoch   1 | iteration   400 | Loss 9.632409 | WER 100.00%
+epoch   1 | iteration   420 | Loss 5.752738 | WER 100.00%
+epoch   1 | iteration   440 | Loss 5.638475 | WER 100.00%
